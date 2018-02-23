@@ -1,0 +1,4902 @@
+[
+ {
+   "genre": "classical",
+   "track number": 0,
+   "artist": "Handel",
+   "track name": "Hallelujah",
+   "duration in seconds": 229
+ },
+ {
+   "genre": "classical",
+   "track number": 1,
+   "artist": "Mendelssohn",
+   "track name": "A Midsummer Nights Dream",
+   "duration in seconds": 296
+ },
+ {
+   "genre": "classical",
+   "track number": 2,
+   "artist": "Mozart",
+   "track name": "Eine Kleine Nachtmusik",
+   "duration in seconds": 340
+ },
+ {
+   "genre": "classical",
+   "track number": 3,
+   "artist": "Strauss",
+   "track name": "Also Sprach Zarathustra",
+   "duration in seconds": 73
+ },
+ {
+   "genre": "classical",
+   "track number": 4,
+   "artist": "Vivaldi",
+   "track name": "Spring",
+   "duration in seconds": 190
+ },
+ {
+   "genre": "classical",
+   "track number": 5,
+   "artist": "Orff",
+   "track name": "O Fortuna",
+   "duration in seconds": 153
+ },
+ {
+   "genre": "classical",
+   "track number": 6,
+   "artist": "Brahms",
+   "track name": "Cradle Song",
+   "duration in seconds": 104
+ },
+ {
+   "genre": "classical",
+   "track number": 7,
+   "artist": "Liszt",
+   "track name": "Liebestraum #3",
+   "duration in seconds": 253
+ },
+ {
+   "genre": "classical",
+   "track number": 8,
+   "artist": "Mozart",
+   "track name": "Symphony #40 in G minor 1st Movement",
+   "duration in seconds": 453
+ },
+ {
+   "genre": "classical",
+   "track number": 9,
+   "artist": "Tchaikovsky",
+   "track name": "Piano Concerto #1 1st Movement",
+   "duration in seconds": 533
+ },
+ {
+   "genre": "classical",
+   "track number": 10,
+   "artist": "Rubinstein",
+   "track name": "Melody in F",
+   "duration in seconds": 187
+ },
+ {
+   "genre": "classical",
+   "track number": 11,
+   "artist": "Grieg",
+   "track name": "Morning Mood",
+   "duration in seconds": 258
+ },
+ {
+   "genre": "classical",
+   "track number": 12,
+   "artist": "Bach",
+   "track name": "Air on G string",
+   "duration in seconds": 225
+ },
+ {
+   "genre": "classical",
+   "track number": 13,
+   "artist": "Strauss",
+   "track name": "The Blue Danube",
+   "duration in seconds": 255
+ },
+ {
+   "genre": "classical",
+   "track number": 14,
+   "artist": "Wagner",
+   "track name": "The Ride of the Valkyries",
+   "duration in seconds": 147
+ },
+ {
+   "genre": "classical",
+   "track number": 15,
+   "artist": "Bach",
+   "track name": "Brandenburg Concerto #3 1st Movement",
+   "duration in seconds": 328
+ },
+ {
+   "genre": "classical",
+   "track number": 16,
+   "artist": "Mendelssohn",
+   "track name": "Spring Song",
+   "duration in seconds": 160
+ },
+ {
+   "genre": "classical",
+   "track number": 17,
+   "artist": "Mozart",
+   "track name": "Piano Concerto #21 Andante",
+   "duration in seconds": 338
+ },
+ {
+   "genre": "classical",
+   "track number": 18,
+   "artist": "Tchaikovsky",
+   "track name": "Waltz Of The Flowers",
+   "duration in seconds": 401
+ },
+ {
+   "genre": "classical",
+   "track number": 19,
+   "artist": "Grieg",
+   "track name": "In the Hall of the Mountain King",
+   "duration in seconds": 142
+ },
+ {
+   "genre": "classical",
+   "track number": 20,
+   "artist": "Handel",
+   "track name": "Water Music",
+   "duration in seconds": 575
+ },
+ {
+   "genre": "classical",
+   "track number": 21,
+   "artist": "Mozart",
+   "track name": "The Marriage of Figaro Overture",
+   "duration in seconds": 255
+ },
+ {
+   "genre": "classical",
+   "track number": 22,
+   "artist": "Purcell",
+   "track name": "Trumpet Tune and Air",
+   "duration in seconds": 155
+ },
+ {
+   "genre": "classical",
+   "track number": 23,
+   "artist": "Tchaikovsky",
+   "track name": "Scene from Swan Lake",
+   "duration in seconds": 163
+ },
+ {
+   "genre": "classical",
+   "track number": 24,
+   "artist": "Handel",
+   "track name": "Largo",
+   "duration in seconds": 183
+ },
+ {
+   "genre": "classical",
+   "track number": 25,
+   "artist": "Massenet",
+   "track name": "Thais Meditation",
+   "duration in seconds": 303
+ },
+ {
+   "genre": "classical",
+   "track number": 26,
+   "artist": "Khachaturian",
+   "track name": "Sabre Dance",
+   "duration in seconds": 144
+ },
+ {
+   "genre": "classical",
+   "track number": 27,
+   "artist": "Bizet",
+   "track name": "Les Toreadors",
+   "duration in seconds": 133
+ },
+ {
+   "genre": "classical",
+   "track number": 28,
+   "artist": "Dvorak",
+   "track name": "Slavonic Dance",
+   "duration in seconds": 330
+ },
+ {
+   "genre": "classical",
+   "track number": 29,
+   "artist": "Elgar",
+   "track name": "Pomp and Circumstance",
+   "duration in seconds": 365
+ },
+ {
+   "genre": "classical",
+   "track number": 30,
+   "artist": "Mozart",
+   "track name": "Rondo Alla Turca",
+   "duration in seconds": 217
+ },
+ {
+   "genre": "classical",
+   "track number": 31,
+   "artist": "Haydn",
+   "track name": "Emperors Hymn",
+   "duration in seconds": 430
+ },
+ {
+   "genre": "classical",
+   "track number": 32,
+   "artist": "Clarke",
+   "track name": "Trumpet Voluntary",
+   "duration in seconds": 166
+ },
+ {
+   "genre": "classical",
+   "track number": 33,
+   "artist": "Bach",
+   "track name": "Keyboard Concerto #5 in F minor Largo",
+   "duration in seconds": 176
+ },
+ {
+   "genre": "classical",
+   "track number": 34,
+   "artist": "Handel",
+   "track name": "The Arrival of the Queen of Sheba",
+   "duration in seconds": 193
+ },
+ {
+   "genre": "classical",
+   "track number": 35,
+   "artist": "Beethoven",
+   "track name": "Symphony #5 1st Movement",
+   "duration in seconds": 432
+ },
+ {
+   "genre": "classical",
+   "track number": 36,
+   "artist": "Dvorak",
+   "track name": "Humoresque",
+   "duration in seconds": 197
+ },
+ {
+   "genre": "classical",
+   "track number": 37,
+   "artist": "Schubert",
+   "track name": "Ave Maria",
+   "duration in seconds": 287
+ },
+ {
+   "genre": "classical",
+   "track number": 38,
+   "artist": "Albioni",
+   "track name": "Adagio",
+   "duration in seconds": 587
+ },
+ {
+   "genre": "classical",
+   "track number": 39,
+   "artist": "Vivaldi",
+   "track name": "Summer Storm",
+   "duration in seconds": 167
+ },
+ {
+   "genre": "classical",
+   "track number": 40,
+   "artist": "Chopin",
+   "track name": "Marche Funebre Lento",
+   "duration in seconds": 208
+ },
+ {
+   "genre": "classical",
+   "track number": 41,
+   "artist": "Vivaldi",
+   "track name": "Mandolin Concerto in C",
+   "duration in seconds": 458
+ },
+ {
+   "genre": "classical",
+   "track number": 42,
+   "artist": "Beethoven",
+   "track name": "Minuet in G",
+   "duration in seconds": 149
+ },
+ {
+   "genre": "classical",
+   "track number": 43,
+   "artist": "Schumann",
+   "track name": "Traumerei",
+   "duration in seconds": 184
+ },
+ {
+   "genre": "classical",
+   "track number": 44,
+   "artist": "Strauss",
+   "track name": "Tritsch Tratsch Polka",
+   "duration in seconds": 158
+ },
+ {
+   "genre": "classical",
+   "track number": 45,
+   "artist": "Bach",
+   "track name": "Minuet and Badinerie",
+   "duration in seconds": 174
+ },
+ {
+   "genre": "classical",
+   "track number": 46,
+   "artist": "Haydn",
+   "track name": "Trumpet Concerto in E flat 3rd Movement",
+   "duration in seconds": 305
+ },
+ {
+   "genre": "classical",
+   "track number": 47,
+   "artist": "Pergolesi",
+   "track name": "Stabat Mater Dolorosa",
+   "duration in seconds": 247
+ },
+ {
+   "genre": "classical",
+   "track number": 48,
+   "artist": "Purcell",
+   "track name": "Rondeau",
+   "duration in seconds": 95
+ },
+ {
+   "genre": "classical",
+   "track number": 49,
+   "artist": "Bach",
+   "track name": "Toccata and Fugue in D minor",
+   "duration in seconds": 324
+ },
+ {
+   "genre": "classical",
+   "track number": 50,
+   "artist": "Chopin",
+   "track name": "Waltz in C sharp minor",
+   "duration in seconds": 204
+ },
+ {
+   "genre": "classical",
+   "track number": 51,
+   "artist": "Pachelbel",
+   "track name": "Canon in D major",
+   "duration in seconds": 377
+ },
+ {
+   "genre": "classical",
+   "track number": 52,
+   "artist": "Boccherini",
+   "track name": "Minuet from Quintet in E major",
+   "duration in seconds": 202
+ },
+ {
+   "genre": "classical",
+   "track number": 53,
+   "artist": "Rossini",
+   "track name": "William Tell Overture",
+   "duration in seconds": 194
+ },
+ {
+   "genre": "classical",
+   "track number": 54,
+   "artist": "Brahms",
+   "track name": "Hungarian Dance #1 in G minor",
+   "duration in seconds": 168
+ },
+ {
+   "genre": "classical",
+   "track number": 55,
+   "artist": "Verdi",
+   "track name": "Triumphal March",
+   "duration in seconds": 105
+ },
+ {
+   "genre": "classical",
+   "track number": 56,
+   "artist": "Paganini",
+   "track name": "Caprice #24 in A minor",
+   "duration in seconds": 266
+ },
+ {
+   "genre": "classical",
+   "track number": 57,
+   "artist": "Mozart",
+   "track name": "Lacrimosa",
+   "duration in seconds": 189
+ },
+ {
+   "genre": "classical",
+   "track number": 58,
+   "artist": "Rimsky-Korsakov",
+   "track name": "Flight of the Bumble Bee",
+   "duration in seconds": 104
+ },
+ {
+   "genre": "classical",
+   "track number": 59,
+   "artist": "Mozart",
+   "track name": "A Musical Joke Presto",
+   "duration in seconds": 248
+ },
+ {
+   "genre": "classical",
+   "track number": 60,
+   "artist": "Vivaldi",
+   "track name": "Flute Concerto in G minor Allegro",
+   "duration in seconds": 122
+ },
+ {
+   "genre": "classical",
+   "track number": 61,
+   "artist": "Bach",
+   "track name": "Oboe Concerto in D minor 2nd Movement",
+   "duration in seconds": 187
+ },
+ {
+   "genre": "classical",
+   "track number": 62,
+   "artist": "Beethoven",
+   "track name": "Fur Elise",
+   "duration in seconds": 183
+ },
+ {
+   "genre": "classical",
+   "track number": 63,
+   "artist": "Barber",
+   "track name": "Adagio for strings",
+   "duration in seconds": 421
+ },
+ {
+   "genre": "classical",
+   "track number": 64,
+   "artist": "Bach-Gounod",
+   "track name": "Ave Maria",
+   "duration in seconds": 270
+ },
+ {
+   "genre": "classical",
+   "track number": 65,
+   "artist": "Chopin",
+   "track name": "Etude in E major",
+   "duration in seconds": 243
+ },
+ {
+   "genre": "classical",
+   "track number": 66,
+   "artist": "Vivaldi",
+   "track name": "Largo",
+   "duration in seconds": 145
+ },
+ {
+   "genre": "classical",
+   "track number": 67,
+   "artist": "Satie",
+   "track name": "Gymnopedie #1",
+   "duration in seconds": 184
+ },
+ {
+   "genre": "classical",
+   "track number": 68,
+   "artist": "Beethoven",
+   "track name": "Moonlight Sonata Adagio",
+   "duration in seconds": 395
+ },
+ {
+   "genre": "classical",
+   "track number": 69,
+   "artist": "Debussy",
+   "track name": "Clair de Lune",
+   "duration in seconds": 291
+ },
+ {
+   "genre": "country",
+   "track number": 0,
+   "artist": "Kevin Fowler",
+   "track name": "That Girl",
+   "duration in seconds": 208
+ },
+ {
+   "genre": "country",
+   "track number": 1,
+   "artist": "Josh Turner",
+   "track name": "Would You Go With Me",
+   "duration in seconds": 230
+ },
+ {
+   "genre": "country",
+   "track number": 2,
+   "artist": "Alan Jackson",
+   "track name": "Don't Rock the Jukebox",
+   "duration in seconds": 172
+ },
+ {
+   "genre": "country",
+   "track number": 3,
+   "artist": "Brad Paisley feat Alabama",
+   "track name": "Alabama",
+   "duration in seconds": 301
+ },
+ {
+   "genre": "country",
+   "track number": 4,
+   "artist": "Chris Young",
+   "track name": "Beer or Gasoline",
+   "duration in seconds": 208
+ },
+ {
+   "genre": "country",
+   "track number": 5,
+   "artist": "Kevin Fowler",
+   "track name": "Girl In A Truck",
+   "duration in seconds": 171
+ },
+ {
+   "genre": "country",
+   "track number": 6,
+   "artist": "Clint Black",
+   "track name": "A Better Man",
+   "duration in seconds": 186
+ },
+ {
+   "genre": "country",
+   "track number": 7,
+   "artist": "Reba McEntire feat Carole King",
+   "track name": "Everyday People",
+   "duration in seconds": 215
+ },
+ {
+   "genre": "country",
+   "track number": 8,
+   "artist": "Chris Young",
+   "track name": "Voices",
+   "duration in seconds": 183
+ },
+ {
+   "genre": "country",
+   "track number": 9,
+   "artist": "Alan Jackson",
+   "track name": "Dallas",
+   "duration in seconds": 165
+ },
+ {
+   "genre": "country",
+   "track number": 10,
+   "artist": "Kevin Fowler",
+   "track name": "Hell Yeah, I Like Beer",
+   "duration in seconds": 207
+ },
+ {
+   "genre": "country",
+   "track number": 11,
+   "artist": "Josh Turner",
+   "track name": "Firecracker",
+   "duration in seconds": 209
+ },
+ {
+   "genre": "country",
+   "track number": 12,
+   "artist": "Brad Paisley feat Carrie Underwood",
+   "track name": "Remind",
+   "duration in seconds": 272
+ },
+ {
+   "genre": "country",
+   "track number": 13,
+   "artist": "Chris Young",
+   "track name": "You're Gonna Love Me",
+   "duration in seconds": 177
+ },
+ {
+   "genre": "country",
+   "track number": 14,
+   "artist": "Clint Black",
+   "track name": "Walkin' Away",
+   "duration in seconds": 171
+ },
+ {
+   "genre": "country",
+   "track number": 15,
+   "artist": "Tim McGraw",
+   "track name": "It's Your Love",
+   "duration in seconds": 225
+ },
+ {
+   "genre": "country",
+   "track number": 16,
+   "artist": "Garth Brooks",
+   "track name": "The Fever",
+   "duration in seconds": 160
+ },
+ {
+   "genre": "country",
+   "track number": 17,
+   "artist": "Johnny Cash",
+   "track name": "I Walk The Line",
+   "duration in seconds": 165
+ },
+ {
+   "genre": "country",
+   "track number": 18,
+   "artist": "Martina McBride",
+   "track name": "So Magical",
+   "duration in seconds": 232
+ },
+ {
+   "genre": "country",
+   "track number": 19,
+   "artist": "Tim McGraw",
+   "track name": "For a Little While",
+   "duration in seconds": 213
+ },
+ {
+   "genre": "country",
+   "track number": 20,
+   "artist": "Willie Nelson",
+   "track name": "Man With The Blues",
+   "duration in seconds": 141
+ },
+ {
+   "genre": "country",
+   "track number": 21,
+   "artist": "Josh Turner",
+   "track name": "Your Man",
+   "duration in seconds": 213
+ },
+ {
+   "genre": "country",
+   "track number": 22,
+   "artist": "Clint Black",
+   "track name": "Loving Blind",
+   "duration in seconds": 238
+ },
+ {
+   "genre": "country",
+   "track number": 23,
+   "artist": "Johnny Cash",
+   "track name": "Guess Things Happen That Way",
+   "duration in seconds": 111
+ },
+ {
+   "genre": "country",
+   "track number": 24,
+   "artist": "Toby Keith",
+   "track name": "Honkytonk U",
+   "duration in seconds": 215
+ },
+ {
+   "genre": "country",
+   "track number": 25,
+   "artist": "Alan Jackson",
+   "track name": "Midnight in Montgomery",
+   "duration in seconds": 226
+ },
+ {
+   "genre": "country",
+   "track number": 26,
+   "artist": "Martina McBride",
+   "track name": "This One's for the Girls",
+   "duration in seconds": 244
+ },
+ {
+   "genre": "country",
+   "track number": 27,
+   "artist": "Willie Nelson",
+   "track name": "Seaman's Blues",
+   "duration in seconds": 202
+ },
+ {
+   "genre": "country",
+   "track number": 28,
+   "artist": "Jason Aldean",
+   "track name": "Crazy Town",
+   "duration in seconds": 183
+ },
+ {
+   "genre": "country",
+   "track number": 29,
+   "artist": "Reba McEntire feat Kelly Clarkson",
+   "track name": "Because Of You",
+   "duration in seconds": 225
+ },
+ {
+   "genre": "country",
+   "track number": 30,
+   "artist": "Toby Keith",
+   "track name": "As Good as I Once Was",
+   "duration in seconds": 229
+ },
+ {
+   "genre": "country",
+   "track number": 31,
+   "artist": "Josh Turner",
+   "track name": "Why Don't We Just Dance",
+   "duration in seconds": 192
+ },
+ {
+   "genre": "country",
+   "track number": 32,
+   "artist": "Chris Young",
+   "track name": "Gettin' You Home",
+   "duration in seconds": 210
+ },
+ {
+   "genre": "country",
+   "track number": 33,
+   "artist": "Tim McGraw",
+   "track name": "Where the Green Grass Grows",
+   "duration in seconds": 201
+ },
+ {
+   "genre": "country",
+   "track number": 34,
+   "artist": "Garth Brooks",
+   "track name": "She's Every Woman",
+   "duration in seconds": 171
+ },
+ {
+   "genre": "country",
+   "track number": 35,
+   "artist": "Johnny Cash feat Bob Dylan",
+   "track name": "The Girl From The North Country",
+   "duration in seconds": 221
+ },
+ {
+   "genre": "country",
+   "track number": 36,
+   "artist": "Martina McBride",
+   "track name": "How Far",
+   "duration in seconds": 237
+ },
+ {
+   "genre": "country",
+   "track number": 37,
+   "artist": "Alan Jackson",
+   "track name": "Someday",
+   "duration in seconds": 198
+ },
+ {
+   "genre": "country",
+   "track number": 38,
+   "artist": "Clint Black",
+   "track name": "Like the Rain",
+   "duration in seconds": 263
+ },
+ {
+   "genre": "country",
+   "track number": 39,
+   "artist": "Chris Young",
+   "track name": "The Man I Want To Be",
+   "duration in seconds": 204
+ },
+ {
+   "genre": "country",
+   "track number": 40,
+   "artist": "Kevin Fowler",
+   "track name": "Beer Money",
+   "duration in seconds": 196
+ },
+ {
+   "genre": "country",
+   "track number": 41,
+   "artist": "Brad Paisley feat Clint Eastwood",
+   "track name": "Eastwood",
+   "duration in seconds": 302
+ },
+ {
+   "genre": "country",
+   "track number": 42,
+   "artist": "Garth Brooks",
+   "track name": "Standing Outside the Fire",
+   "duration in seconds": 231
+ },
+ {
+   "genre": "country",
+   "track number": 43,
+   "artist": "Reba McEntire feat Kenny Chesney",
+   "track name": "Every Other Weekend",
+   "duration in seconds": 244
+ },
+ {
+   "genre": "country",
+   "track number": 44,
+   "artist": "Tim McGraw",
+   "track name": "Something Like That",
+   "duration in seconds": 183
+ },
+ {
+   "genre": "country",
+   "track number": 45,
+   "artist": "Willie Nelson",
+   "track name": "Freight Train Boogie",
+   "duration in seconds": 159
+ },
+ {
+   "genre": "country",
+   "track number": 46,
+   "artist": "Toby Keith",
+   "track name": "Big Blue Note",
+   "duration in seconds": 178
+ },
+ {
+   "genre": "country",
+   "track number": 47,
+   "artist": "Mac Wiseman",
+   "track name": "Train 45",
+   "duration in seconds": 140
+ },
+ {
+   "genre": "country",
+   "track number": 48,
+   "artist": "Martina McBride",
+   "track name": "In My Daughter's Eyes",
+   "duration in seconds": 194
+ },
+ {
+   "genre": "country",
+   "track number": 49,
+   "artist": "Johnny Cash feat June Carter",
+   "track name": "If I Were A Carpenter",
+   "duration in seconds": 181
+ },
+ {
+   "genre": "country",
+   "track number": 50,
+   "artist": "Brad Paisley feat Sheryl Crow and Carl Jackson",
+   "track name": "Life's Railway To Heaven",
+   "duration in seconds": 292
+ },
+ {
+   "genre": "country",
+   "track number": 51,
+   "artist": "Garth Brooks",
+   "track name": "The Beaches of Cheyenne",
+   "duration in seconds": 253
+ },
+ {
+   "genre": "country",
+   "track number": 52,
+   "artist": "Jason Aldean",
+   "track name": "Big Green Tractor",
+   "duration in seconds": 204
+ },
+ {
+   "genre": "country",
+   "track number": 53,
+   "artist": "Sixteen Horsepower",
+   "track name": "Single Girl",
+   "duration in seconds": 155
+ },
+ {
+   "genre": "country",
+   "track number": 54,
+   "artist": "Tony Rice",
+   "track name": "Jerusalem Ridge",
+   "duration in seconds": 396
+ },
+ {
+   "genre": "country",
+   "track number": 55,
+   "artist": "Tim O'Brien",
+   "track name": "Kelly Joe's Shoes",
+   "duration in seconds": 213
+ },
+ {
+   "genre": "country",
+   "track number": 56,
+   "artist": "Willie Nelson",
+   "track name": "Dark As A Dungeon",
+   "duration in seconds": 289
+ },
+ {
+   "genre": "country",
+   "track number": 57,
+   "artist": "David Grier",
+   "track name": "Alphabet Soup",
+   "duration in seconds": 273
+ },
+ {
+   "genre": "country",
+   "track number": 58,
+   "artist": "Bryan Sutton",
+   "track name": "Hangman's Reel",
+   "duration in seconds": 183
+ },
+ {
+   "genre": "country",
+   "track number": 59,
+   "artist": "Jason Aldean",
+   "track name": "She's Country",
+   "duration in seconds": 220
+ },
+ {
+   "genre": "country",
+   "track number": 60,
+   "artist": "New Grass Revival",
+   "track name": "Can't Stop Now",
+   "duration in seconds": 239
+ },
+ {
+   "genre": "country",
+   "track number": 61,
+   "artist": "Reba McEntire feat Justin Timberlake",
+   "track name": "The Only Promise That Remains",
+   "duration in seconds": 307
+ },
+ {
+   "genre": "country",
+   "track number": 62,
+   "artist": "Martina McBride",
+   "track name": "God's Will",
+   "duration in seconds": 350
+ },
+ {
+   "genre": "country",
+   "track number": 63,
+   "artist": "Johnny Cash",
+   "track name": "The Ballad Of Ira Hayes",
+   "duration in seconds": 250
+ },
+ {
+   "genre": "country",
+   "track number": 64,
+   "artist": "Garth Brooks",
+   "track name": "That Ol' Wind",
+   "duration in seconds": 317
+ },
+ {
+   "genre": "country",
+   "track number": 65,
+   "artist": "Tim McGraw",
+   "track name": "My Best Friend",
+   "duration in seconds": 279
+ },
+ {
+   "genre": "country",
+   "track number": 66,
+   "artist": "Clint Black",
+   "track name": "Killin' Time",
+   "duration in seconds": 169
+ },
+ {
+   "genre": "country",
+   "track number": 67,
+   "artist": "Chris Young",
+   "track name": "Drinkin' Me Lonely",
+   "duration in seconds": 200
+ },
+ {
+   "genre": "country",
+   "track number": 68,
+   "artist": "Brad Paisley feat Dan Henley",
+   "track name": "Love Her Like She's Leavin",
+   "duration in seconds": 249
+ },
+ {
+   "genre": "country",
+   "track number": 69,
+   "artist": "Alan Jackson",
+   "track name": "Love's Got a Hold on You",
+   "duration in seconds": 174
+ },
+ {
+   "genre": "dance",
+   "track number": 0,
+   "artist": "Avicii",
+   "track name": "Silhouettes",
+   "duration in seconds": 212
+ },
+ {
+   "genre": "dance",
+   "track number": 1,
+   "artist": "David Guetta feat Nicki Minaj",
+   "track name": "Turn me on",
+   "duration in seconds": 202
+ },
+ {
+   "genre": "dance",
+   "track number": 2,
+   "artist": "Flo Rida feat Sia",
+   "track name": "The Wild Ones",
+   "duration in seconds": 232
+ },
+ {
+   "genre": "dance",
+   "track number": 3,
+   "artist": "Steve Aoki feat Wynter Gordon",
+   "track name": "Ladi Dadi",
+   "duration in seconds": 243
+ },
+ {
+   "genre": "dance",
+   "track number": 4,
+   "artist": "Alexandra Burke feat Erick Morillo",
+   "track name": "Elephant",
+   "duration in seconds": 229
+ },
+ {
+   "genre": "dance",
+   "track number": 5,
+   "artist": "David Guetta feat Kelly Rowlan",
+   "track name": "When Love Takes Over",
+   "duration in seconds": 191
+ },
+ {
+   "genre": "dance",
+   "track number": 6,
+   "artist": "Martin Solveig",
+   "track name": "The night out",
+   "duration in seconds": 221
+ },
+ {
+   "genre": "dance",
+   "track number": 7,
+   "artist": "Deadmau5",
+   "track name": "FML",
+   "duration in seconds": 395
+ },
+ {
+   "genre": "dance",
+   "track number": 8,
+   "artist": "Underworld",
+   "track name": "Born Slippy",
+   "duration in seconds": 334
+ },
+ {
+   "genre": "dance",
+   "track number": 9,
+   "artist": "Ian Van Dahl",
+   "track name": "Castles In The Sky",
+   "duration in seconds": 219
+ },
+ {
+   "genre": "dance",
+   "track number": 10,
+   "artist": "The Chemical Brothers",
+   "track name": "Out of Control",
+   "duration in seconds": 440
+ },
+ {
+   "genre": "dance",
+   "track number": 11,
+   "artist": "Daft Punk",
+   "track name": "One more time",
+   "duration in seconds": 320
+ },
+ {
+   "genre": "dance",
+   "track number": 12,
+   "artist": "Swedish House Mafia",
+   "track name": "Greyhound",
+   "duration in seconds": 411
+ },
+ {
+   "genre": "dance",
+   "track number": 13,
+   "artist": "Avicii",
+   "track name": "Levels",
+   "duration in seconds": 200
+ },
+ {
+   "genre": "dance",
+   "track number": 14,
+   "artist": "Deadmau5",
+   "track name": "Moar Ghosts N Stuff",
+   "duration in seconds": 270
+ },
+ {
+   "genre": "dance",
+   "track number": 15,
+   "artist": "Daft Punk",
+   "track name": "Aerodynamic",
+   "duration in seconds": 207
+ },
+ {
+   "genre": "dance",
+   "track number": 16,
+   "artist": "M83",
+   "track name": "Midnight City",
+   "duration in seconds": 244
+ },
+ {
+   "genre": "dance",
+   "track number": 17,
+   "artist": "Calvin Harris",
+   "track name": "Feel So Close",
+   "duration in seconds": 208
+ },
+ {
+   "genre": "dance",
+   "track number": 18,
+   "artist": "Tim Berg",
+   "track name": "Seek Bromance",
+   "duration in seconds": 240
+ },
+ {
+   "genre": "dance",
+   "track number": 19,
+   "artist": "Daft Punk",
+   "track name": "Digital love",
+   "duration in seconds": 298
+ },
+ {
+   "genre": "dance",
+   "track number": 20,
+   "artist": "Eric Prydz",
+   "track name": "Niton",
+   "duration in seconds": 251
+ },
+ {
+   "genre": "dance",
+   "track number": 21,
+   "artist": "Alex Gaudino",
+   "track name": "I'm In Love",
+   "duration in seconds": 266
+ },
+ {
+   "genre": "dance",
+   "track number": 22,
+   "artist": "Dizzee Rascal",
+   "track name": "Dirtee Disco",
+   "duration in seconds": 287
+ },
+ {
+   "genre": "dance",
+   "track number": 23,
+   "artist": "Tensnake",
+   "track name": "Coma Cat",
+   "duration in seconds": 194
+ },
+ {
+   "genre": "dance",
+   "track number": 24,
+   "artist": "Tiesto vs Diplo",
+   "track name": "C'mon",
+   "duration in seconds": 258
+ },
+ {
+   "genre": "dance",
+   "track number": 25,
+   "artist": "Roger Sanchez",
+   "track name": "2Gether",
+   "duration in seconds": 194
+ },
+ {
+   "genre": "dance",
+   "track number": 26,
+   "artist": "PJ feat Velvet",
+   "track name": "Stereo Love",
+   "duration in seconds": 188
+ },
+ {
+   "genre": "dance",
+   "track number": 27,
+   "artist": "TV Rock feat Rudy",
+   "track name": "In The Air",
+   "duration in seconds": 224
+ },
+ {
+   "genre": "dance",
+   "track number": 28,
+   "artist": "Ian Carey feat Mandy Ventrice",
+   "track name": "Let Loose",
+   "duration in seconds": 254
+ },
+ {
+   "genre": "dance",
+   "track number": 29,
+   "artist": "The Chemical Brothers",
+   "track name": "Star Guitar",
+   "duration in seconds": 369
+ },
+ {
+   "genre": "dance",
+   "track number": 30,
+   "artist": "Kris Menace feat Emil",
+   "track name": "Walking On The Moon",
+   "duration in seconds": 197
+ },
+ {
+   "genre": "dance",
+   "track number": 31,
+   "artist": "Yolanda Be Cool",
+   "track name": "Afronuts",
+   "duration in seconds": 187
+ },
+ {
+   "genre": "dance",
+   "track number": 32,
+   "artist": "Swedish House Mafia",
+   "track name": "One",
+   "duration in seconds": 243
+ },
+ {
+   "genre": "dance",
+   "track number": 33,
+   "artist": "Underworld",
+   "track name": "Always Loved A Film",
+   "duration in seconds": 225
+ },
+ {
+   "genre": "dance",
+   "track number": 34,
+   "artist": "Example",
+   "track name": "Two Lives",
+   "duration in seconds": 247
+ },
+ {
+   "genre": "dance",
+   "track number": 35,
+   "artist": "Felix Da Housecat",
+   "track name": "Thee Anthem",
+   "duration in seconds": 240
+ },
+ {
+   "genre": "dance",
+   "track number": 36,
+   "artist": "Tim Berg, Norman Doray, Sebastien Drums",
+   "track name": "Tweet It",
+   "duration in seconds": 255
+ },
+ {
+   "genre": "dance",
+   "track number": 37,
+   "artist": "Ricky L feat Mck",
+   "track name": "Born Again",
+   "duration in seconds": 187
+ },
+ {
+   "genre": "dance",
+   "track number": 38,
+   "artist": "Drop The Lime",
+   "track name": "Hot As Hell",
+   "duration in seconds": 233
+ },
+ {
+   "genre": "dance",
+   "track number": 39,
+   "artist": "BT feat JES",
+   "track name": "Every Other Way",
+   "duration in seconds": 263
+ },
+ {
+   "genre": "dance",
+   "track number": 40,
+   "artist": "Paul Oakenfold feat Matt Goss",
+   "track name": "Firefly",
+   "duration in seconds": 233
+ },
+ {
+   "genre": "dance",
+   "track number": 41,
+   "artist": "Armin van Buuren feat Adam Young",
+   "track name": "Youtopia",
+   "duration in seconds": 203
+ },
+ {
+   "genre": "dance",
+   "track number": 42,
+   "artist": "DJ's United",
+   "track name": "Remember Love",
+   "duration in seconds": 291
+ },
+ {
+   "genre": "dance",
+   "track number": 43,
+   "artist": "Daft Punk",
+   "track name": "Harder, better, faster, stronger",
+   "duration in seconds": 224
+ },
+ {
+   "genre": "dance",
+   "track number": 44,
+   "artist": "Katy B",
+   "track name": "Katy On A Mission",
+   "duration in seconds": 207
+ },
+ {
+   "genre": "dance",
+   "track number": 45,
+   "artist": "Wretch 32",
+   "track name": "Traktor",
+   "duration in seconds": 254
+ },
+ {
+   "genre": "dance",
+   "track number": 46,
+   "artist": "Armin Van Buuren feat Laura V",
+   "track name": "Drowning",
+   "duration in seconds": 195
+ },
+ {
+   "genre": "dance",
+   "track number": 47,
+   "artist": "Alex Engstrom",
+   "track name": "Tonight We Are Swedish",
+   "duration in seconds": 383
+ },
+ {
+   "genre": "dance",
+   "track number": 48,
+   "artist": "Skream feat Freckles",
+   "track name": "How Real",
+   "duration in seconds": 195
+ },
+ {
+   "genre": "dance",
+   "track number": 49,
+   "artist": "Swedish House Mafia feat Miike Snow",
+   "track name": "Silvia",
+   "duration in seconds": 179
+ },
+ {
+   "genre": "dance",
+   "track number": 50,
+   "artist": "Steve Angello and Laidback Luke",
+   "track name": "Show Me Love",
+   "duration in seconds": 261
+ },
+ {
+   "genre": "dance",
+   "track number": 51,
+   "artist": "Axwell",
+   "track name": "Nothing But Love",
+   "duration in seconds": 185
+ },
+ {
+   "genre": "dance",
+   "track number": 52,
+   "artist": "Steve Angello feat An 21",
+   "track name": "Valodja",
+   "duration in seconds": 166
+ },
+ {
+   "genre": "dance",
+   "track number": 53,
+   "artist": "David Guetta",
+   "track name": "How Soon Is Now",
+   "duration in seconds": 361
+ },
+ {
+   "genre": "dance",
+   "track number": 54,
+   "artist": "Prok and Fitch",
+   "track name": "Walk With Me",
+   "duration in seconds": 150
+ },
+ {
+   "genre": "dance",
+   "track number": 55,
+   "artist": "Delerium feat Sarah McLachlan",
+   "track name": "Silence",
+   "duration in seconds": 321
+ },
+ {
+   "genre": "dance",
+   "track number": 56,
+   "artist": "Calvin Harris",
+   "track name": "Flashback",
+   "duration in seconds": 229
+ },
+ {
+   "genre": "dance",
+   "track number": 57,
+   "artist": "Danny Byrd feat I-Kay",
+   "track name": "Ill Behaviour",
+   "duration in seconds": 289
+ },
+ {
+   "genre": "dance",
+   "track number": 58,
+   "artist": "The Chemical Brothers",
+   "track name": "Hey Boy Hey Girl",
+   "duration in seconds": 290
+ },
+ {
+   "genre": "dance",
+   "track number": 59,
+   "artist": "Daft Punk",
+   "track name": "Around the world",
+   "duration in seconds": 429
+ },
+ {
+   "genre": "dance",
+   "track number": 60,
+   "artist": "Unicorn Kid",
+   "track name": "Wild Life",
+   "duration in seconds": 316
+ },
+ {
+   "genre": "dance",
+   "track number": 61,
+   "artist": "Aoki, Steve and Zuper Blahq",
+   "track name": "I'm in the house",
+   "duration in seconds": 218
+ },
+ {
+   "genre": "dance",
+   "track number": 62,
+   "artist": "Redlight feat Ms",
+   "track name": " Dynamite",
+   "duration in seconds": 138
+ },
+ {
+   "genre": "dance",
+   "track number": 63,
+   "artist": "Mz Bratt",
+   "track name": "Selecta",
+   "duration in seconds": 181
+ },
+ {
+   "genre": "dance",
+   "track number": 64,
+   "artist": "Little Jinder",
+   "track name": "Youth Blood",
+   "duration in seconds": 236
+ },
+ {
+   "genre": "dance",
+   "track number": 65,
+   "artist": "Foamo",
+   "track name": "Here Comes",
+   "duration in seconds": 254
+ },
+ {
+   "genre": "dance",
+   "track number": 66,
+   "artist": "Fugative",
+   "track name": "Bad Girl",
+   "duration in seconds": 274
+ },
+ {
+   "genre": "dance",
+   "track number": 67,
+   "artist": "Jacob Plant",
+   "track name": "Jump Up",
+   "duration in seconds": 209
+ },
+ {
+   "genre": "dance",
+   "track number": 68,
+   "artist": "Drumsound and Bassline Smith",
+   "track name": "R U Ready",
+   "duration in seconds": 201
+ },
+ {
+   "genre": "dance",
+   "track number": 69,
+   "artist": "Deadmau5",
+   "track name": "Bad Selection",
+   "duration in seconds": 332
+ },
+ {
+   "genre": "electronic",
+   "track number": 0,
+   "artist": "Flying Lotus",
+   "track name": "All In",
+   "duration in seconds": 180
+ },
+ {
+   "genre": "electronic",
+   "track number": 1,
+   "artist": "Baths",
+   "track name": "Apologetic Shoulderblades",
+   "duration in seconds": 216
+ },
+ {
+   "genre": "electronic",
+   "track number": 2,
+   "artist": "Dibiase",
+   "track name": "Eternia",
+   "duration in seconds": 130
+ },
+ {
+   "genre": "electronic",
+   "track number": 3,
+   "artist": "SBTRKT",
+   "track name": "Heatwave",
+   "duration in seconds": 178
+ },
+ {
+   "genre": "electronic",
+   "track number": 4,
+   "artist": "Slugabed",
+   "track name": "New Worlds",
+   "duration in seconds": 205
+ },
+ {
+   "genre": "electronic",
+   "track number": 5,
+   "artist": "Bonobo",
+   "track name": "Prelude",
+   "duration in seconds": 78
+ },
+ {
+   "genre": "electronic",
+   "track number": 6,
+   "artist": "Gold Panda",
+   "track name": "Quitters Raga",
+   "duration in seconds": 117
+ },
+ {
+   "genre": "electronic",
+   "track number": 7,
+   "artist": "Dntel",
+   "track name": "Retracer",
+   "duration in seconds": 227
+ },
+ {
+   "genre": "electronic",
+   "track number": 8,
+   "artist": "Gold Panda",
+   "track name": "Fifth Ave",
+   "duration in seconds": 331
+ },
+ {
+   "genre": "electronic",
+   "track number": 9,
+   "artist": "Flying Lotus feat Niki Randa",
+   "track name": "Getting There",
+   "duration in seconds": 109
+ },
+ {
+   "genre": "electronic",
+   "track number": 10,
+   "artist": "Flying Lotus",
+   "track name": "Clock Catcher",
+   "duration in seconds": 72
+ },
+ {
+   "genre": "electronic",
+   "track number": 11,
+   "artist": "SBTRKT",
+   "track name": "Hold On",
+   "duration in seconds": 211
+ },
+ {
+   "genre": "electronic",
+   "track number": 12,
+   "artist": "Bonobo",
+   "track name": "Kiara",
+   "duration in seconds": 230
+ },
+ {
+   "genre": "electronic",
+   "track number": 13,
+   "artist": "Baths",
+   "track name": "Lovely Bloodflow",
+   "duration in seconds": 217
+ },
+ {
+   "genre": "electronic",
+   "track number": 14,
+   "artist": "Poolside",
+   "track name": "Next To You",
+   "duration in seconds": 263
+ },
+ {
+   "genre": "electronic",
+   "track number": 15,
+   "artist": "Dibiase",
+   "track name": "Phantom Power",
+   "duration in seconds": 145
+ },
+ {
+   "genre": "electronic",
+   "track number": 16,
+   "artist": "Panda Bear",
+   "track name": "Last Night at the Jetty",
+   "duration in seconds": 279
+ },
+ {
+   "genre": "electronic",
+   "track number": 17,
+   "artist": "Flying Lotus",
+   "track name": "Pickled!",
+   "duration in seconds": 133
+ },
+ {
+   "genre": "electronic",
+   "track number": 18,
+   "artist": "Dntel",
+   "track name": "Bright Night",
+   "duration in seconds": 257
+ },
+ {
+   "genre": "electronic",
+   "track number": 19,
+   "artist": "Slugabed",
+   "track name": "All This Time",
+   "duration in seconds": 179
+ },
+ {
+   "genre": "electronic",
+   "track number": 20,
+   "artist": "Dibiase",
+   "track name": "Dusty Lungz",
+   "duration in seconds": 135
+ },
+ {
+   "genre": "electronic",
+   "track number": 21,
+   "artist": "Panda Bear",
+   "track name": "You Can Count on Me",
+   "duration in seconds": 152
+ },
+ {
+   "genre": "electronic",
+   "track number": 22,
+   "artist": "Bono",
+   "track name": "Kong",
+   "duration in seconds": 237
+ },
+ {
+   "genre": "electronic",
+   "track number": 23,
+   "artist": "Washed Out",
+   "track name": "Eyes Be Closed",
+   "duration in seconds": 287
+ },
+ {
+   "genre": "electronic",
+   "track number": 24,
+   "artist": "Gold Panda",
+   "track name": "Like Totally",
+   "duration in seconds": 169
+ },
+ {
+   "genre": "electronic",
+   "track number": 25,
+   "artist": "Baths",
+   "track name": "Maximalist",
+   "duration in seconds": 184
+ },
+ {
+   "genre": "electronic",
+   "track number": 26,
+   "artist": "Washed Out",
+   "track name": "You And I",
+   "duration in seconds": 313
+ },
+ {
+   "genre": "electronic",
+   "track number": 27,
+   "artist": "Flying Lotus",
+   "track name": "Nose Art",
+   "duration in seconds": 118
+ },
+ {
+   "genre": "electronic",
+   "track number": 28,
+   "artist": "Poolside",
+   "track name": "Why You Wanna",
+   "duration in seconds": 298
+ },
+ {
+   "genre": "electronic",
+   "track number": 29,
+   "artist": "SBTRKT",
+   "track name": "Wildfire",
+   "duration in seconds": 205
+ },
+ {
+   "genre": "electronic",
+   "track number": 30,
+   "artist": "Panda Bear",
+   "track name": "Alsatian Darn",
+   "duration in seconds": 256
+ },
+ {
+   "genre": "electronic",
+   "track number": 31,
+   "artist": "Dibiase",
+   "track name": "Atombreakin",
+   "duration in seconds": 156
+ },
+ {
+   "genre": "electronic",
+   "track number": 32,
+   "artist": "Gold Panda",
+   "track name": "Back Home",
+   "duration in seconds": 271
+ },
+ {
+   "genre": "electronic",
+   "track number": 33,
+   "artist": "Washed Out",
+   "track name": "Amor Fati",
+   "duration in seconds": 266
+ },
+ {
+   "genre": "electronic",
+   "track number": 34,
+   "artist": "Bonobo feat Andreya Triana",
+   "track name": "Eyesdown",
+   "duration in seconds": 326
+ },
+ {
+   "genre": "electronic",
+   "track number": 35,
+   "artist": "Poolside",
+   "track name": "Harvest Moon",
+   "duration in seconds": 368
+ },
+ {
+   "genre": "electronic",
+   "track number": 36,
+   "artist": "Washed Out",
+   "track name": "You Will Be Sad",
+   "duration in seconds": 77
+ },
+ {
+   "genre": "electronic",
+   "track number": 37,
+   "artist": "Flying Lotus",
+   "track name": "Heave(n)",
+   "duration in seconds": 142
+ },
+ {
+   "genre": "electronic",
+   "track number": 38,
+   "artist": "Slugabed",
+   "track name": "Moonbeam Rider",
+   "duration in seconds": 224
+ },
+ {
+   "genre": "electronic",
+   "track number": 39,
+   "artist": "SBTRKT",
+   "track name": "Sanctuary",
+   "duration in seconds": 236
+ },
+ {
+   "genre": "electronic",
+   "track number": 40,
+   "artist": "Panda Bear",
+   "track name": "Slow Motion",
+   "duration in seconds": 276
+ },
+ {
+   "genre": "electronic",
+   "track number": 41,
+   "artist": "Bonobo",
+   "track name": "El Toro",
+   "duration in seconds": 224
+ },
+ {
+   "genre": "electronic",
+   "track number": 42,
+   "artist": "Diabiase",
+   "track name": "Lumberjack",
+   "duration in seconds": 187
+ },
+ {
+   "genre": "electronic",
+   "track number": 43,
+   "artist": "Gold Panda",
+   "track name": "Mayuri",
+   "duration in seconds": 309
+ },
+ {
+   "genre": "electronic",
+   "track number": 44,
+   "artist": "Baths",
+   "track name": "Rafting Starlit Everglades",
+   "duration in seconds": 237
+ },
+ {
+   "genre": "electronic",
+   "track number": 45,
+   "artist": "Poolside",
+   "track name": "Slow Down",
+   "duration in seconds": 285
+ },
+ {
+   "genre": "electronic",
+   "track number": 46,
+   "artist": "Flying Lotus feat Thom Yorke",
+   "track name": "Electric Candyman",
+   "duration in seconds": 212
+ },
+ {
+   "genre": "electronic",
+   "track number": 47,
+   "artist": "Washed Out",
+   "track name": "New Theory",
+   "duration in seconds": 171
+ },
+ {
+   "genre": "electronic",
+   "track number": 48,
+   "artist": "Panda Bear",
+   "track name": "Surfer's Hymn",
+   "duration in seconds": 249
+ },
+ {
+   "genre": "electronic",
+   "track number": 49,
+   "artist": "Slugarbed",
+   "track name": "Travel Sweets",
+   "duration in seconds": 243
+ },
+ {
+   "genre": "electronic",
+   "track number": 50,
+   "artist": "Flying Lotus",
+   "track name": "Zodiac Shit",
+   "duration in seconds": 164
+ },
+ {
+   "genre": "electronic",
+   "track number": 51,
+   "artist": "Baths",
+   "track name": "Aminals",
+   "duration in seconds": 199
+ },
+ {
+   "genre": "electronic",
+   "track number": 52,
+   "artist": "Gold Panda",
+   "track name": "Long Vacation",
+   "duration in seconds": 250
+ },
+ {
+   "genre": "electronic",
+   "track number": 53,
+   "artist": "Panda Bear",
+   "track name": "Tomboy",
+   "duration in seconds": 295
+ },
+ {
+   "genre": "electronic",
+   "track number": 54,
+   "artist": "Dibiase",
+   "track name": "Neighborhood Watch",
+   "duration in seconds": 151
+ },
+ {
+   "genre": "electronic",
+   "track number": 55,
+   "artist": "Washed Out",
+   "track name": "Within And Without",
+   "duration in seconds": 212
+ },
+ {
+   "genre": "electronic",
+   "track number": 56,
+   "artist": "SBTRKT",
+   "track name": "Right Thing to Do",
+   "duration in seconds": 207
+ },
+ {
+   "genre": "electronic",
+   "track number": 57,
+   "artist": "Poolside",
+   "track name": "Take Me There",
+   "duration in seconds": 266
+ },
+ {
+   "genre": "electronic",
+   "track number": 58,
+   "artist": "Shigeto",
+   "track name": "Sky of the revolution",
+   "duration in seconds": 307
+ },
+ {
+   "genre": "electronic",
+   "track number": 59,
+   "artist": "Dibiase",
+   "track name": "Abstract",
+   "duration in seconds": 154
+ },
+ {
+   "genre": "electronic",
+   "track number": 60,
+   "artist": "Flying Lotus",
+   "track name": "German Haircut",
+   "duration in seconds": 117
+ },
+ {
+   "genre": "electronic",
+   "track number": 61,
+   "artist": "Dntel",
+   "track name": "Still",
+   "duration in seconds": 287
+ },
+ {
+   "genre": "electronic",
+   "track number": 62,
+   "artist": "Poolside",
+   "track name": "Golden Hour",
+   "duration in seconds": 376
+ },
+ {
+   "genre": "electronic",
+   "track number": 63,
+   "artist": "Slugabed",
+   "track name": "Haze",
+   "duration in seconds": 165
+ },
+ {
+   "genre": "electronic",
+   "track number": 64,
+   "artist": "Flying Lotus",
+   "track name": "Satelllliiiiiiiteee",
+   "duration in seconds": 229
+ },
+ {
+   "genre": "electronic",
+   "track number": 65,
+   "artist": "Shigeto",
+   "track name": "Eternal Life",
+   "duration in seconds": 157
+ },
+ {
+   "genre": "electronic",
+   "track number": 66,
+   "artist": "Panda Bear",
+   "track name": "Scheherazade",
+   "duration in seconds": 232
+ },
+ {
+   "genre": "electronic",
+   "track number": 67,
+   "artist": "Poolside",
+   "track name": "Tulsa",
+   "duration in seconds": 99
+ },
+ {
+   "genre": "electronic",
+   "track number": 68,
+   "artist": "Slugabed",
+   "track name": "Sex",
+   "duration in seconds": 233
+ },
+ {
+   "genre": "electronic",
+   "track number": 69,
+   "artist": "Dntel",
+   "track name": "Puma",
+   "duration in seconds": 241
+ },
+ {
+   "genre": "hiphop",
+   "track number": 0,
+   "artist": "Nas",
+   "track name": "Life's A Bitch",
+   "duration in seconds": 209
+ },
+ {
+   "genre": "hiphop",
+   "track number": 1,
+   "artist": "Gang Starr",
+   "track name": "Robin Hood Theory",
+   "duration in seconds": 224
+ },
+ {
+   "genre": "hiphop",
+   "track number": 2,
+   "artist": "Drake",
+   "track name": "Headlines",
+   "duration in seconds": 236
+ },
+ {
+   "genre": "hiphop",
+   "track number": 3,
+   "artist": "Kanye West feat Jamie Foxxx",
+   "track name": "Golddigger",
+   "duration in seconds": 207
+ },
+ {
+   "genre": "hiphop",
+   "track number": 4,
+   "artist": "Dr Dre feat Eminem And Skylar Grey",
+   "track name": "Need A Doctor",
+   "duration in seconds": 283
+ },
+ {
+   "genre": "hiphop",
+   "track number": 5,
+   "artist": "50 Cent",
+   "track name": "In Da Club",
+   "duration in seconds": 220
+ },
+ {
+   "genre": "hiphop",
+   "track number": 6,
+   "artist": "Eminem",
+   "track name": "Lose Yourself",
+   "duration in seconds": 267
+ },
+ {
+   "genre": "hiphop",
+   "track number": 7,
+   "artist": "Blackstreet feat Dr Dre and Foxy Brown",
+   "track name": "No Diggity",
+   "duration in seconds": 270
+ },
+ {
+   "genre": "hiphop",
+   "track number": 8,
+   "artist": "Kanye West feat Syleena Johnson",
+   "track name": "All Falls Down",
+   "duration in seconds": 223
+ },
+ {
+   "genre": "hiphop",
+   "track number": 9,
+   "artist": "Lupe Fiasco",
+   "track name": "Paris, Tokyo",
+   "duration in seconds": 270
+ },
+ {
+   "genre": "hiphop",
+   "track number": 10,
+   "artist": "Nas",
+   "track name": "The Genesis",
+   "duration in seconds": 105
+ },
+ {
+   "genre": "hiphop",
+   "track number": 11,
+   "artist": "Afrika Bambaataa",
+   "track name": "Looking For The Perfect Beat",
+   "duration in seconds": 418
+ },
+ {
+   "genre": "hiphop",
+   "track number": 12,
+   "artist": "Biz Markie",
+   "track name": "Just a Friend",
+   "duration in seconds": 237
+ },
+ {
+   "genre": "hiphop",
+   "track number": 13,
+   "artist": "Boot Camp Clik",
+   "track name": "And So",
+   "duration in seconds": 230
+ },
+ {
+   "genre": "hiphop",
+   "track number": 14,
+   "artist": "Common and Sadat X",
+   "track name": "1-9-9-9",
+   "duration in seconds": 250
+ },
+ {
+   "genre": "hiphop",
+   "track number": 15,
+   "artist": "Grandmaster Flash feat Melle Mel and Duke Bootee",
+   "track name": "The Message",
+   "duration in seconds": 422
+ },
+ {
+   "genre": "hiphop",
+   "track number": 16,
+   "artist": "Non Phixion",
+   "track name": "Cult Leader",
+   "duration in seconds": 248
+ },
+ {
+   "genre": "hiphop",
+   "track number": 17,
+   "artist": "Lost Boyz feat Canibus and Redman A+",
+   "track name": "Beasts From The East",
+   "duration in seconds": 334
+ },
+ {
+   "genre": "hiphop",
+   "track number": 18,
+   "artist": "Beastie Boys",
+   "track name": "Pass The Mic",
+   "duration in seconds": 257
+ },
+ {
+   "genre": "hiphop",
+   "track number": 19,
+   "artist": "2Pac",
+   "track name": "2 Of Amerikaz Most Wanted",
+   "duration in seconds": 119
+ },
+ {
+   "genre": "hiphop",
+   "track number": 20,
+   "artist": "Snoop Dogg",
+   "track name": "Boom",
+   "duration in seconds": 230
+ },
+ {
+   "genre": "hiphop",
+   "track number": 21,
+   "artist": "Ghostface Killah",
+   "track name": "Teddy Skit",
+   "duration in seconds": 64
+ },
+ {
+   "genre": "hiphop",
+   "track number": 22,
+   "artist": "Wu-Tang Clan",
+   "track name": "Laced Cheeba",
+   "duration in seconds": 207
+ },
+ {
+   "genre": "hiphop",
+   "track number": 23,
+   "artist": "Raekwon",
+   "track name": "Criminology",
+   "duration in seconds": 120
+ },
+ {
+   "genre": "hiphop",
+   "track number": 24,
+   "artist": "Mos Def",
+   "track name": "Mathematics",
+   "duration in seconds": 246
+ },
+ {
+   "genre": "hiphop",
+   "track number": 25,
+   "artist": "Lupe Fiasco feat Bishop G and Nikki Jean",
+   "track name": "Little Weapon",
+   "duration in seconds": 245
+ },
+ {
+   "genre": "hiphop",
+   "track number": 26,
+   "artist": "Kanye West feat Paul Wall and GLC",
+   "track name": "Drive Slow",
+   "duration in seconds": 271
+ },
+ {
+   "genre": "hiphop",
+   "track number": 27,
+   "artist": "Nas",
+   "track name": "NY State of Mind",
+   "duration in seconds": 292
+ },
+ {
+   "genre": "hiphop",
+   "track number": 28,
+   "artist": "Beastie Boys",
+   "track name": "No Sleep Till Brooklyn",
+   "duration in seconds": 246
+ },
+ {
+   "genre": "hiphop",
+   "track number": 29,
+   "artist": "50 Cent",
+   "track name": "Many Men (Wish Death)",
+   "duration in seconds": 254
+ },
+ {
+   "genre": "hiphop",
+   "track number": 30,
+   "artist": "2Pac",
+   "track name": "Why U Turn On Me",
+   "duration in seconds": 212
+ },
+ {
+   "genre": "hiphop",
+   "track number": 31,
+   "artist": "Ghostface Killah feat Raekwon",
+   "track name": "Kilo",
+   "duration in seconds": 240
+ },
+ {
+   "genre": "hiphop",
+   "track number": 32,
+   "artist": "Wu-Tang Clan",
+   "track name": "Legendary Weapons",
+   "duration in seconds": 202
+ },
+ {
+   "genre": "hiphop",
+   "track number": 33,
+   "artist": "Mos Def",
+   "track name": "Umi Says",
+   "duration in seconds": 305
+ },
+ {
+   "genre": "hiphop",
+   "track number": 34,
+   "artist": "Raekwon",
+   "track name": "Ice Cream Part 2",
+   "duration in seconds": 224
+ },
+ {
+   "genre": "hiphop",
+   "track number": 35,
+   "artist": "Wu-Tang Clan",
+   "track name": "The Black Diamonds",
+   "duration in seconds": 198
+ },
+ {
+   "genre": "hiphop",
+   "track number": 36,
+   "artist": "Ghostface Killah",
+   "track name": "Ghost Showers",
+   "duration in seconds": 251
+ },
+ {
+   "genre": "hiphop",
+   "track number": 37,
+   "artist": "Snoop Dogg",
+   "track name": "Platinum",
+   "duration in seconds": 269
+ },
+ {
+   "genre": "hiphop",
+   "track number": 38,
+   "artist": "50 Cent",
+   "track name": "Ghetto Qua Ran",
+   "duration in seconds": 269
+ },
+ {
+   "genre": "hiphop",
+   "track number": 39,
+   "artist": "Beastie Boys",
+   "track name": "Sabotage",
+   "duration in seconds": 178
+ },
+ {
+   "genre": "hiphop",
+   "track number": 40,
+   "artist": "Nas",
+   "track name": "The World is Yours",
+   "duration in seconds": 290
+ },
+ {
+   "genre": "hiphop",
+   "track number": 41,
+   "artist": "Kanye West feat Dwele",
+   "track name": "Flashing Lights",
+   "duration in seconds": 236
+ },
+ {
+   "genre": "hiphop",
+   "track number": 42,
+   "artist": "Lupe Fiasco feat Unkle",
+   "track name": "Hello-Goodbye",
+   "duration in seconds": 266
+ },
+ {
+   "genre": "hiphop",
+   "track number": 43,
+   "artist": "Lupe Fiasco feat Sarah Green",
+   "track name": "Intruder Alert",
+   "duration in seconds": 240
+ },
+ {
+   "genre": "hiphop",
+   "track number": 44,
+   "artist": "50 Cent feat Olivia",
+   "track name": "We Both Think Alike",
+   "duration in seconds": 185
+ },
+ {
+   "genre": "hiphop",
+   "track number": 45,
+   "artist": "Beastie Boys",
+   "track name": "Intergalactic",
+   "duration in seconds": 210
+ },
+ {
+   "genre": "hiphop",
+   "track number": 46,
+   "artist": "2Pac",
+   "track name": "All Eyez on Me",
+   "duration in seconds": 175
+ },
+ {
+   "genre": "hiphop",
+   "track number": 47,
+   "artist": "Ghostface Killah feat Mary J Blige",
+   "track name": "All That I Got Is You",
+   "duration in seconds": 321
+ },
+ {
+   "genre": "hiphop",
+   "track number": 48,
+   "artist": "Snoop Dogg",
+   "track name": "Gang Bang Rookie",
+   "duration in seconds": 226
+ },
+ {
+   "genre": "hiphop",
+   "track number": 49,
+   "artist": "Beastie Boys",
+   "track name": "Paul Revere",
+   "duration in seconds": 221
+ },
+ {
+   "genre": "hiphop",
+   "track number": 50,
+   "artist": "Kanye West",
+   "track name": "Through The Wire",
+   "duration in seconds": 220
+ },
+ {
+   "genre": "hiphop",
+   "track number": 51,
+   "artist": "Lupe Fiasco",
+   "track name": "Gotta Eat",
+   "duration in seconds": 204
+ },
+ {
+   "genre": "hiphop",
+   "track number": 52,
+   "artist": "2Pac",
+   "track name": "Dear Mama",
+   "duration in seconds": 80
+ },
+ {
+   "genre": "hiphop",
+   "track number": 53,
+   "artist": "Nas",
+   "track name": "One Love",
+   "duration in seconds": 324
+ },
+ {
+   "genre": "hiphop",
+   "track number": 54,
+   "artist": "Gang Starr",
+   "track name": "Work",
+   "duration in seconds": 177
+ },
+ {
+   "genre": "hiphop",
+   "track number": 55,
+   "artist": "50 Cent feat Beyonce",
+   "track name": "Thug Love",
+   "duration in seconds": 173
+ },
+ {
+   "genre": "hiphop",
+   "track number": 56,
+   "artist": "2Pac",
+   "track name": "Against All Odds",
+   "duration in seconds": 277
+ },
+ {
+   "genre": "hiphop",
+   "track number": 57,
+   "artist": "Lupe Fiasco feat Gemstones And Graham Burris",
+   "track name": "Dumb It Down",
+   "duration in seconds": 243
+ },
+ {
+   "genre": "hiphop",
+   "track number": 58,
+   "artist": "Beastie Boys",
+   "track name": "Fight For Your Right",
+   "duration in seconds": 207
+ },
+ {
+   "genre": "hiphop",
+   "track number": 59,
+   "artist": "Nas",
+   "track name": "It Ain't Hard To Tell",
+   "duration in seconds": 202
+ },
+ {
+   "genre": "hiphop",
+   "track number": 60,
+   "artist": "Gang Starr feat K-Ci and JoJo",
+   "track name": "Royalty",
+   "duration in seconds": 311
+ },
+ {
+   "genre": "hiphop",
+   "track number": 61,
+   "artist": "Lost Boyz",
+   "track name": "Me And My Crazy World",
+   "duration in seconds": 312
+ },
+ {
+   "genre": "hiphop",
+   "track number": 62,
+   "artist": "The Beatnuts",
+   "track name": "Watch Out Now",
+   "duration in seconds": 175
+ },
+ {
+   "genre": "hiphop",
+   "track number": 63,
+   "artist": "Skillz",
+   "track name": "The Nod Factor",
+   "duration in seconds": 238
+ },
+ {
+   "genre": "hiphop",
+   "track number": 64,
+   "artist": "Non Phixion",
+   "track name": "Rock Stars",
+   "duration in seconds": 240
+ },
+ {
+   "genre": "hiphop",
+   "track number": 65,
+   "artist": "High and Mighty feat Mos Def and Skillz",
+   "track name": "B-Boy Document '99",
+   "duration in seconds": 247
+ },
+ {
+   "genre": "hiphop",
+   "track number": 66,
+   "artist": "Grandmaster Flash",
+   "track name": "White Lines (Don't Do It)",
+   "duration in seconds": 447
+ },
+ {
+   "genre": "hiphop",
+   "track number": 67,
+   "artist": "Lupe Fiasco feat Nikki Jean",
+   "track name": "Hip-Hop Saved My Life",
+   "duration in seconds": 242
+ },
+ {
+   "genre": "hiphop",
+   "track number": 68,
+   "artist": "Kanye West feat Adam Leving",
+   "track name": "Heard 'Em Say",
+   "duration in seconds": 203
+ },
+ {
+   "genre": "hiphop",
+   "track number": 69,
+   "artist": "Gang Starr feat Inspectah Deck",
+   "track name": "Above The Clouds",
+   "duration in seconds": 221
+ },
+ {
+   "genre": "jazz",
+   "track number": 0,
+   "artist": "Diana Krall",
+   "track name": "I've Got You Under My Skin",
+   "duration in seconds": 368
+ },
+ {
+   "genre": "jazz",
+   "track number": 1,
+   "artist": "Ronnie Jordan",
+   "track name": "After Hours",
+   "duration in seconds": 354
+ },
+ {
+   "genre": "jazz",
+   "track number": 2,
+   "artist": "Sarah Vaughan",
+   "track name": "Misty",
+   "duration in seconds": 180
+ },
+ {
+   "genre": "jazz",
+   "track number": 3,
+   "artist": "Billie Holiday",
+   "track name": "Baby Get Lost",
+   "duration in seconds": 194
+ },
+ {
+   "genre": "jazz",
+   "track number": 4,
+   "artist": "Silje Nergaard",
+   "track name": "Every Time We Say Goodbye",
+   "duration in seconds": 319
+ },
+ {
+   "genre": "jazz",
+   "track number": 5,
+   "artist": "Ella Fitzgerald",
+   "track name": "Cry You Out Of My Heart",
+   "duration in seconds": 167
+ },
+ {
+   "genre": "jazz",
+   "track number": 6,
+   "artist": "Dinah Washington",
+   "track name": "Mad About The Boy",
+   "duration in seconds": 168
+ },
+ {
+   "genre": "jazz",
+   "track number": 7,
+   "artist": "Ruth Cameron",
+   "track name": "Something Cool",
+   "duration in seconds": 323
+ },
+ {
+   "genre": "jazz",
+   "track number": 8,
+   "artist": "Dinah Washington",
+   "track name": "Walkin And Talkin",
+   "duration in seconds": 152
+ },
+ {
+   "genre": "jazz",
+   "track number": 9,
+   "artist": "Billie Holiday",
+   "track name": "Stormy Weather",
+   "duration in seconds": 219
+ },
+ {
+   "genre": "jazz",
+   "track number": 10,
+   "artist": "Dee Dee Bridgewater",
+   "track name": "Angel Eyes",
+   "duration in seconds": 351
+ },
+ {
+   "genre": "jazz",
+   "track number": 11,
+   "artist": "Ella Fitzgerald",
+   "track name": "Someone To Watch Over Me",
+   "duration in seconds": 273
+ },
+ {
+   "genre": "jazz",
+   "track number": 12,
+   "artist": "Abbey Lincoln",
+   "track name": "Brother, Can You Spare A Dime",
+   "duration in seconds": 406
+ },
+ {
+   "genre": "jazz",
+   "track number": 13,
+   "artist": "Nina Simone",
+   "track name": "Don't Explain",
+   "duration in seconds": 259
+ },
+ {
+   "genre": "jazz",
+   "track number": 14,
+   "artist": "Myra Taylor",
+   "track name": "Tell Your Best Friend Nothing",
+   "duration in seconds": 139
+ },
+ {
+   "genre": "jazz",
+   "track number": 15,
+   "artist": "Carmen McRae",
+   "track name": "Dream Of Life",
+   "duration in seconds": 240
+ },
+ {
+   "genre": "jazz",
+   "track number": 16,
+   "artist": "Cassandra Wilson",
+   "track name": "I've Grown Accustomed To His Face",
+   "duration in seconds": 313
+ },
+ {
+   "genre": "jazz",
+   "track number": 17,
+   "artist": "Dinah Washington",
+   "track name": "I Want To Cry",
+   "duration in seconds": 190
+ },
+ {
+   "genre": "jazz",
+   "track number": 18,
+   "artist": "Diana Krall",
+   "track name": "Why Should I Care",
+   "duration in seconds": 226
+ },
+ {
+   "genre": "jazz",
+   "track number": 19,
+   "artist": "Teri Thornton",
+   "track name": "Where Are You Running",
+   "duration in seconds": 171
+ },
+ {
+   "genre": "jazz",
+   "track number": 20,
+   "artist": "Ivian Green",
+   "track name": "Red Light",
+   "duration in seconds": 178
+ },
+ {
+   "genre": "jazz",
+   "track number": 21,
+   "artist": "Ella Fitzgerald",
+   "track name": "September Song",
+   "duration in seconds": 220
+ },
+ {
+   "genre": "jazz",
+   "track number": 22,
+   "artist": "Shirley Horn",
+   "track name": "I Got Lost In His Arms",
+   "duration in seconds": 255
+ },
+ {
+   "genre": "jazz",
+   "track number": 23,
+   "artist": "Helen Humes",
+   "track name": "Jet Propelled Papa",
+   "duration in seconds": 167
+ },
+ {
+   "genre": "jazz",
+   "track number": 24,
+   "artist": "Ruth Cameron",
+   "track name": "One For My Baby",
+   "duration in seconds": 311
+ },
+ {
+   "genre": "jazz",
+   "track number": 25,
+   "artist": "Sarah Vaughan",
+   "track name": "Smoke Gets In Your Eyes",
+   "duration in seconds": 239
+ },
+ {
+   "genre": "jazz",
+   "track number": 26,
+   "artist": "Zachary Breaux",
+   "track name": "Cafe Reggio",
+   "duration in seconds": 368
+ },
+ {
+   "genre": "jazz",
+   "track number": 27,
+   "artist": "Memphis Minnie",
+   "track name": "Fashion Plate Daddy",
+   "duration in seconds": 180
+ },
+ {
+   "genre": "jazz",
+   "track number": 28,
+   "artist": "Silje Negaard",
+   "track name": "Bewitched, Bothered And Bewildered",
+   "duration in seconds": 323
+ },
+ {
+   "genre": "jazz",
+   "track number": 29,
+   "artist": "Billie Holiday",
+   "track name": "Come Rain Or Come Shine",
+   "duration in seconds": 260
+ },
+ {
+   "genre": "jazz",
+   "track number": 30,
+   "artist": "Dinah Washington",
+   "track name": "I've Got Bad News Baby",
+   "duration in seconds": 200
+ },
+ {
+   "genre": "jazz",
+   "track number": 31,
+   "artist": "Dinah Washington",
+   "track name": "Cry Me A River",
+   "duration in seconds": 149
+ },
+ {
+   "genre": "jazz",
+   "track number": 32,
+   "artist": "Laura Fygi",
+   "track name": "What Are You Doing The Rest Of Your Life",
+   "duration in seconds": 226
+ },
+ {
+   "genre": "jazz",
+   "track number": 33,
+   "artist": "Myra Taylor With Jimmy Keith's Orchestra",
+   "track name": "Take It Easy, Greasy",
+   "duration in seconds": 177
+ },
+ {
+   "genre": "jazz",
+   "track number": 34,
+   "artist": "Diane Schuur",
+   "track name": "The Man I Love",
+   "duration in seconds": 282
+ },
+ {
+   "genre": "jazz",
+   "track number": 35,
+   "artist": "Peggy Lee",
+   "track name": "They Can't Take That Away From Me",
+   "duration in seconds": 178
+ },
+ {
+   "genre": "jazz",
+   "track number": 36,
+   "artist": "Julia Lee",
+   "track name": "Show Me Missouri Blues",
+   "duration in seconds": 181
+ },
+ {
+   "genre": "jazz",
+   "track number": 37,
+   "artist": "Myra Taylor With Jimmy Keith's Orchestra",
+   "track name": "The Spider And The Fly",
+   "duration in seconds": 171
+ },
+ {
+   "genre": "jazz",
+   "track number": 38,
+   "artist": "Dorothy Dandrige",
+   "track name": "That Old Feeling",
+   "duration in seconds": 185
+ },
+ {
+   "genre": "jazz",
+   "track number": 39,
+   "artist": "Helen Merrill",
+   "track name": "Baby Ain't I Good To You",
+   "duration in seconds": 169
+ },
+ {
+   "genre": "jazz",
+   "track number": 40,
+   "artist": "Cleo Brown",
+   "track name": "Boggie Woogie",
+   "duration in seconds": 145
+ },
+ {
+   "genre": "jazz",
+   "track number": 41,
+   "artist": "Anita Oday",
+   "track name": "Tenderly",
+   "duration in seconds": 160
+ },
+ {
+   "genre": "jazz",
+   "track number": 42,
+   "artist": "Blossom Dearie",
+   "track name": "Once Upon A Summertime",
+   "duration in seconds": 165
+ },
+ {
+   "genre": "jazz",
+   "track number": 43,
+   "artist": "PattiPage",
+   "track name": "I Didn't Know About You",
+   "duration in seconds": 159
+ },
+ {
+   "genre": "jazz",
+   "track number": 44,
+   "artist": "Charlie Parker",
+   "track name": "Au Private",
+   "duration in seconds": 158
+ },
+ {
+   "genre": "jazz",
+   "track number": 45,
+   "artist": "Diana Krall",
+   "track name": "Almost Blue",
+   "duration in seconds": 244
+ },
+ {
+   "genre": "jazz",
+   "track number": 46,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "Autumn In New York",
+   "duration in seconds": 359
+ },
+ {
+   "genre": "jazz",
+   "track number": 47,
+   "artist": "John Coltrane",
+   "track name": "Body and Soul",
+   "duration in seconds": 337
+ },
+ {
+   "genre": "jazz",
+   "track number": 48,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "Gee, Baby, Ain't I Good To You",
+   "duration in seconds": 253
+ },
+ {
+   "genre": "jazz",
+   "track number": 49,
+   "artist": "Diana Krall",
+   "track name": "Stop This World",
+   "duration in seconds": 239
+ },
+ {
+   "genre": "jazz",
+   "track number": 50,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "I've Got My Love To Keep Me Warm",
+   "duration in seconds": 191
+ },
+ {
+   "genre": "jazz",
+   "track number": 51,
+   "artist": "John Coltrane",
+   "track name": "Cousin Mary",
+   "duration in seconds": 349
+ },
+ {
+   "genre": "jazz",
+   "track number": 52,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "I Wants To Stay Here",
+   "duration in seconds": 278
+ },
+ {
+   "genre": "jazz",
+   "track number": 53,
+   "artist": "John Coltrane",
+   "track name": "Giant Steps",
+   "duration in seconds": 286
+ },
+ {
+   "genre": "jazz",
+   "track number": 54,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "Let's Call The Whole Thing Off",
+   "duration in seconds": 254
+ },
+ {
+   "genre": "jazz",
+   "track number": 55,
+   "artist": "John Coltrane",
+   "track name": "My Shining Hour",
+   "duration in seconds": 295
+ },
+ {
+   "genre": "jazz",
+   "track number": 56,
+   "artist": "Charlie Parker",
+   "track name": "Chi Chi",
+   "duration in seconds": 182
+ },
+ {
+   "genre": "jazz",
+   "track number": 57,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "Love Is Here To Stay",
+   "duration in seconds": 240
+ },
+ {
+   "genre": "jazz",
+   "track number": 58,
+   "artist": "Charlie Parker",
+   "track name": "Laird Baird",
+   "duration in seconds": 164
+ },
+ {
+   "genre": "jazz",
+   "track number": 59,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "Stompin' At The Savoy",
+   "duration in seconds": 314
+ },
+ {
+   "genre": "jazz",
+   "track number": 60,
+   "artist": "Charlie Parker",
+   "track name": "Passport",
+   "duration in seconds": 178
+ },
+ {
+   "genre": "jazz",
+   "track number": 61,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "Stars Fell On Alabama",
+   "duration in seconds": 215
+ },
+ {
+   "genre": "jazz",
+   "track number": 62,
+   "artist": "Charlie Parker",
+   "track name": "Swedish Schnapps",
+   "duration in seconds": 190
+ },
+ {
+   "genre": "jazz",
+   "track number": 63,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "Summertime",
+   "duration in seconds": 301
+ },
+ {
+   "genre": "jazz",
+   "track number": 64,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "Tenderly",
+   "duration in seconds": 309
+ },
+ {
+   "genre": "jazz",
+   "track number": 65,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "The Nearness Of You",
+   "duration in seconds": 342
+ },
+ {
+   "genre": "jazz",
+   "track number": 66,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "There's A Boat Dat's Leavin' Soon For New York",
+   "duration in seconds": 294
+ },
+ {
+   "genre": "jazz",
+   "track number": 67,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "They Can't Take That Away From Me",
+   "duration in seconds": 280
+ },
+ {
+   "genre": "jazz",
+   "track number": 68,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "Under A Blanket Of Blue",
+   "duration in seconds": 258
+ },
+ {
+   "genre": "jazz",
+   "track number": 69,
+   "artist": "Ella Fitzgerald feat Louis Armstrong",
+   "track name": "You Won't Be Satisfied (Until You Break My Heart)",
+   "duration in seconds": 189
+ },
+ {
+   "genre": "pop",
+   "track number": 0,
+   "artist": "Carly Rae Jepson",
+   "track name": "Call Me Maybe",
+   "duration in seconds": 193
+ },
+ {
+   "genre": "pop",
+   "track number": 1,
+   "artist": "Gotye Feat Kimbra",
+   "track name": "Somebody That I Used To Know",
+   "duration in seconds": 244
+ },
+ {
+   "genre": "pop",
+   "track number": 2,
+   "artist": "Nicki Minaj",
+   "track name": "Starships",
+   "duration in seconds": 210
+ },
+ {
+   "genre": "pop",
+   "track number": 3,
+   "artist": "Katy Perry",
+   "track name": "Part Of Me",
+   "duration in seconds": 215
+ },
+ {
+   "genre": "pop",
+   "track number": 4,
+   "artist": "Emeli Sande",
+   "track name": "Next To Me",
+   "duration in seconds": 196
+ },
+ {
+   "genre": "pop",
+   "track number": 5,
+   "artist": "Jessie J",
+   "track name": "Domino",
+   "duration in seconds": 231
+ },
+ {
+   "genre": "pop",
+   "track number": 6,
+   "artist": "Olly Murs",
+   "track name": "Oh My Goodness",
+   "duration in seconds": 184
+ },
+ {
+   "genre": "pop",
+   "track number": 7,
+   "artist": "Alex Day",
+   "track name": "Lady Godiva",
+   "duration in seconds": 148
+ },
+ {
+   "genre": "pop",
+   "track number": 8,
+   "artist": "Kelly Clarkson",
+   "track name": "What Doesn't Kill You (Stronger)",
+   "duration in seconds": 222
+ },
+ {
+   "genre": "pop",
+   "track number": 9,
+   "artist": "Stooshe",
+   "track name": "Love Me",
+   "duration in seconds": 184
+ },
+ {
+   "genre": "pop",
+   "track number": 10,
+   "artist": "Maroon 5 feat Christina Aguilera",
+   "track name": "Moves Like Jagger",
+   "duration in seconds": 201
+ },
+ {
+   "genre": "pop",
+   "track number": 11,
+   "artist": "Olly Murs",
+   "track name": "Dance With Me Tonight",
+   "duration in seconds": 203
+ },
+ {
+   "genre": "pop",
+   "track number": 12,
+   "artist": "Alyssa Reid feat Jump Smokers",
+   "track name": "Alone Again",
+   "duration in seconds": 189
+ },
+ {
+   "genre": "pop",
+   "track number": 13,
+   "artist": "Beyonce",
+   "track name": "End Of Time",
+   "duration in seconds": 224
+ },
+ {
+   "genre": "pop",
+   "track number": 14,
+   "artist": "Jessie J feat BoB",
+   "track name": "Price Tag",
+   "duration in seconds": 221
+ },
+ {
+   "genre": "pop",
+   "track number": 15,
+   "artist": "Lady Gaga",
+   "track name": "Born This Way",
+   "duration in seconds": 260
+ },
+ {
+   "genre": "pop",
+   "track number": 16,
+   "artist": "Bruno Mars",
+   "track name": "Grenade",
+   "duration in seconds": 222
+ },
+ {
+   "genre": "pop",
+   "track number": 17,
+   "artist": "Adele",
+   "track name": "Rolling In the Deep",
+   "duration in seconds": 228
+ },
+ {
+   "genre": "pop",
+   "track number": 18,
+   "artist": "Kesha",
+   "track name": "We R Who We R",
+   "duration in seconds": 204
+ },
+ {
+   "genre": "pop",
+   "track number": 19,
+   "artist": "Rihanna feat Drake",
+   "track name": "What's My Name",
+   "duration in seconds": 263
+ },
+ {
+   "genre": "pop",
+   "track number": 20,
+   "artist": "Britney Spears",
+   "track name": "Hold It Against Me",
+   "duration in seconds": 229
+ },
+ {
+   "genre": "pop",
+   "track number": 21,
+   "artist": "Avril Lavigne",
+   "track name": "What the Hell",
+   "duration in seconds": 219
+ },
+ {
+   "genre": "pop",
+   "track number": 22,
+   "artist": "Rihanna",
+   "track name": "Only Girl (In The World)",
+   "duration in seconds": 235
+ },
+ {
+   "genre": "pop",
+   "track number": 23,
+   "artist": "Katy Perry",
+   "track name": "Firework",
+   "duration in seconds": 228
+ },
+ {
+   "genre": "pop",
+   "track number": 24,
+   "artist": "Pink",
+   "track name": "Raise Your Glass",
+   "duration in seconds": 203
+ },
+ {
+   "genre": "pop",
+   "track number": 25,
+   "artist": "Fun feat Janelle Monáe",
+   "track name": "We Are Young",
+   "duration in seconds": 250
+ },
+ {
+   "genre": "pop",
+   "track number": 26,
+   "artist": "Train",
+   "track name": "Drive By",
+   "duration in seconds": 196
+ },
+ {
+   "genre": "pop",
+   "track number": 27,
+   "artist": "Lady Antebellum",
+   "track name": "Need You Now",
+   "duration in seconds": 277
+ },
+ {
+   "genre": "pop",
+   "track number": 28,
+   "artist": "The Wanted",
+   "track name": "Chasing The Sun",
+   "duration in seconds": 194
+ },
+ {
+   "genre": "pop",
+   "track number": 29,
+   "artist": "Pixie Lott",
+   "track name": "Kiss The Stars",
+   "duration in seconds": 194
+ },
+ {
+   "genre": "pop",
+   "track number": 30,
+   "artist": "One Direction",
+   "track name": "One Thing",
+   "duration in seconds": 197
+ },
+ {
+   "genre": "pop",
+   "track number": 31,
+   "artist": "Cher Lloyd",
+   "track name": "Want U Back",
+   "duration in seconds": 214
+ },
+ {
+   "genre": "pop",
+   "track number": 32,
+   "artist": "Rihanna feat Calvin Harris",
+   "track name": "We Found Love",
+   "duration in seconds": 215
+ },
+ {
+   "genre": "pop",
+   "track number": 33,
+   "artist": "Gym Class Heroes feat Adam Levine",
+   "track name": "Stereo Hearts",
+   "duration in seconds": 211
+ },
+ {
+   "genre": "pop",
+   "track number": 34,
+   "artist": "Ed Sheeran",
+   "track name": "Lego House",
+   "duration in seconds": 185
+ },
+ {
+   "genre": "pop",
+   "track number": 35,
+   "artist": "Cobra Starship feat Sabi",
+   "track name": "You Make Me Feel",
+   "duration in seconds": 215
+ },
+ {
+   "genre": "pop",
+   "track number": 36,
+   "artist": "The Calling",
+   "track name": "Wherever You Will Go",
+   "duration in seconds": 207
+ },
+ {
+   "genre": "pop",
+   "track number": 37,
+   "artist": "Pixie Lott",
+   "track name": "All About Tonight",
+   "duration in seconds": 185
+ },
+ {
+   "genre": "pop",
+   "track number": 38,
+   "artist": "Timbaland feat Katy Perry",
+   "track name": "If We Ever Meet Again",
+   "duration in seconds": 293
+ },
+ {
+   "genre": "pop",
+   "track number": 39,
+   "artist": "Boyzone",
+   "track name": "Gave It All Away",
+   "duration in seconds": 268
+ },
+ {
+   "genre": "pop",
+   "track number": 40,
+   "artist": "One Direction",
+   "track name": "What Makes You Beautiful",
+   "duration in seconds": 198
+ },
+ {
+   "genre": "pop",
+   "track number": 41,
+   "artist": "JLS",
+   "track name": "One Shot",
+   "duration in seconds": 227
+ },
+ {
+   "genre": "pop",
+   "track number": 42,
+   "artist": "Glee Cast",
+   "track name": "Don't Stop Believin'",
+   "duration in seconds": 230
+ },
+ {
+   "genre": "pop",
+   "track number": 43,
+   "artist": "Lady Gaga",
+   "track name": "Bad Romance",
+   "duration in seconds": 266
+ },
+ {
+   "genre": "pop",
+   "track number": 44,
+   "artist": "Glee Cast",
+   "track name": "Defying Gravity",
+   "duration in seconds": 141
+ },
+ {
+   "genre": "pop",
+   "track number": 45,
+   "artist": "Alicia Keys",
+   "track name": "Empire State Of Mind (Part II)",
+   "duration in seconds": 219
+ },
+ {
+   "genre": "pop",
+   "track number": 46,
+   "artist": "Maroon 5 feat Wiz Khalifa",
+   "track name": "Payphone",
+   "duration in seconds": 231
+ },
+ {
+   "genre": "pop",
+   "track number": 47,
+   "artist": "The Pains of Being Pure at Heart",
+   "track name": "The Body",
+   "duration in seconds": 230
+ },
+ {
+   "genre": "pop",
+   "track number": 48,
+   "artist": "Imagine Dragons",
+   "track name": "On Top of The World",
+   "duration in seconds": 192
+ },
+ {
+   "genre": "pop",
+   "track number": 49,
+   "artist": "Madonna",
+   "track name": "Turn Up The Radio",
+   "duration in seconds": 226
+ },
+ {
+   "genre": "pop",
+   "track number": 50,
+   "artist": "Fun",
+   "track name": "Some Nights",
+   "duration in seconds": 277
+ },
+ {
+   "genre": "pop",
+   "track number": 51,
+   "artist": "Lady Gaga feat Beyonce",
+   "track name": "Telephone",
+   "duration in seconds": 223
+ },
+ {
+   "genre": "pop",
+   "track number": 52,
+   "artist": "Of Monsters And Men",
+   "track name": "Little Talks",
+   "duration in seconds": 266
+ },
+ {
+   "genre": "pop",
+   "track number": 53,
+   "artist": "Alexandra Stan",
+   "track name": "Lemonade",
+   "duration in seconds": 210
+ },
+ {
+   "genre": "pop",
+   "track number": 54,
+   "artist": "Scissor Sisters",
+   "track name": "Only The Horses",
+   "duration in seconds": 218
+ },
+ {
+   "genre": "pop",
+   "track number": 55,
+   "artist": "Serebro",
+   "track name": "Mama Lover",
+   "duration in seconds": 210
+ },
+ {
+   "genre": "pop",
+   "track number": 56,
+   "artist": "School of Seven Bells",
+   "track name": "Windstorm",
+   "duration in seconds": 224
+ },
+ {
+   "genre": "pop",
+   "track number": 57,
+   "artist": "Beach House",
+   "track name": "Other People",
+   "duration in seconds": 264
+ },
+ {
+   "genre": "pop",
+   "track number": 58,
+   "artist": "Architecture in Helsinki",
+   "track name": "Contact High",
+   "duration in seconds": 218
+ },
+ {
+   "genre": "pop",
+   "track number": 59,
+   "artist": "The XX",
+   "track name": "Angels",
+   "duration in seconds": 173
+ },
+ {
+   "genre": "pop",
+   "track number": 60,
+   "artist": "Two Door Cinema Club",
+   "track name": "Something Good Can Work",
+   "duration in seconds": 164
+ },
+ {
+   "genre": "pop",
+   "track number": 61,
+   "artist": "The Pains of Being Pure at Heart",
+   "track name": "A Teenager In Love",
+   "duration in seconds": 204
+ },
+ {
+   "genre": "pop",
+   "track number": 62,
+   "artist": "The Do",
+   "track name": "Too Insistent",
+   "duration in seconds": 214
+ },
+ {
+   "genre": "pop",
+   "track number": 63,
+   "artist": "Those Dancing Days",
+   "track name": "Can't Find Entrance",
+   "duration in seconds": 215
+ },
+ {
+   "genre": "pop",
+   "track number": 64,
+   "artist": "Foster the People",
+   "track name": "Houdini",
+   "duration in seconds": 203
+ },
+ {
+   "genre": "pop",
+   "track number": 65,
+   "artist": "Two Door Cinema Club",
+   "track name": "Costume Party",
+   "duration in seconds": 209
+ },
+ {
+   "genre": "pop",
+   "track number": 66,
+   "artist": "Coldplay feat Rihanna",
+   "track name": "Princess Of China",
+   "duration in seconds": 239
+ },
+ {
+   "genre": "pop",
+   "track number": 67,
+   "artist": "Nelly Furtado",
+   "track name": "Big Hoops (Bigger the Better)",
+   "duration in seconds": 232
+ },
+ {
+   "genre": "pop",
+   "track number": 68,
+   "artist": "Justin Bieber",
+   "track name": "Boyfriend",
+   "duration in seconds": 172
+ },
+ {
+   "genre": "pop",
+   "track number": 69,
+   "artist": "Neon Trees",
+   "track name": "Animal",
+   "duration in seconds": 212
+ },
+ {
+   "genre": "r+b",
+   "track number": 0,
+   "artist": "Usher",
+   "track name": "Yeah!",
+   "duration in seconds": 250
+ },
+ {
+   "genre": "r+b",
+   "track number": 1,
+   "artist": "The Chi-Lites",
+   "track name": "Oh Girl",
+   "duration in seconds": 176
+ },
+ {
+   "genre": "r+b",
+   "track number": 2,
+   "artist": "The Miracles",
+   "track name": "I Second That Emotion",
+   "duration in seconds": 162
+ },
+ {
+   "genre": "r+b",
+   "track number": 3,
+   "artist": "The Spinners",
+   "track name": "Could It Be I'm Falling In Love",
+   "duration in seconds": 275
+ },
+ {
+   "genre": "r+b",
+   "track number": 4,
+   "artist": "James Brown",
+   "track name": "Papa's Got A Brand New Bag",
+   "duration in seconds": 136
+ },
+ {
+   "genre": "r+b",
+   "track number": 5,
+   "artist": "Sam and Dave",
+   "track name": "Soul Man",
+   "duration in seconds": 173
+ },
+ {
+   "genre": "r+b",
+   "track number": 6,
+   "artist": "Harold Melvin and Bluenotes",
+   "track name": "If You Don't Know Me By Now",
+   "duration in seconds": 213
+ },
+ {
+   "genre": "r+b",
+   "track number": 7,
+   "artist": "Percy Sledge",
+   "track name": "When A Man Loves A Woman",
+   "duration in seconds": 171
+ },
+ {
+   "genre": "r+b",
+   "track number": 8,
+   "artist": "Marvin Gaye",
+   "track name": "Got To Give It Up",
+   "duration in seconds": 280
+ },
+ {
+   "genre": "r+b",
+   "track number": 9,
+   "artist": "Candi Staton",
+   "track name": "Young Hearts Run Free",
+   "duration in seconds": 216
+ },
+ {
+   "genre": "r+b",
+   "track number": 10,
+   "artist": "Kool and The Gang",
+   "track name": "Joanna",
+   "duration in seconds": 213
+ },
+ {
+   "genre": "r+b",
+   "track number": 11,
+   "artist": "Heatwave",
+   "track name": "Always And Forever",
+   "duration in seconds": 287
+ },
+ {
+   "genre": "r+b",
+   "track number": 12,
+   "artist": "Marvin Gaye",
+   "track name": "Sexual Healing",
+   "duration in seconds": 290
+ },
+ {
+   "genre": "r+b",
+   "track number": 13,
+   "artist": "Usher",
+   "track name": "Confessions",
+   "duration in seconds": 260
+ },
+ {
+   "genre": "r+b",
+   "track number": 14,
+   "artist": "Alicia Keys feat Beyonce",
+   "track name": "Put It In A Love Song",
+   "duration in seconds": 195
+ },
+ {
+   "genre": "r+b",
+   "track number": 15,
+   "artist": "Jason Derulo",
+   "track name": "It Girl",
+   "duration in seconds": 193
+ },
+ {
+   "genre": "r+b",
+   "track number": 16,
+   "artist": "Cee Lo Green",
+   "track name": "Cry Baby",
+   "duration in seconds": 209
+ },
+ {
+   "genre": "r+b",
+   "track number": 17,
+   "artist": "Usher",
+   "track name": "Can U Handle It",
+   "duration in seconds": 279
+ },
+ {
+   "genre": "r+b",
+   "track number": 18,
+   "artist": "Jennifer Hudson",
+   "track name": "I Remember Me",
+   "duration in seconds": 215
+ },
+ {
+   "genre": "r+b",
+   "track number": 19,
+   "artist": "Alicia Keys",
+   "track name": "Doesn't Mean Anything",
+   "duration in seconds": 232
+ },
+ {
+   "genre": "r+b",
+   "track number": 20,
+   "artist": "Estelle",
+   "track name": "Break My Heart",
+   "duration in seconds": 217
+ },
+ {
+   "genre": "r+b",
+   "track number": 21,
+   "artist": "T-Pain feat Chris Brown",
+   "track name": "Best Love Song",
+   "duration in seconds": 199
+ },
+ {
+   "genre": "r+b",
+   "track number": 22,
+   "artist": "Pitbull feat Ne-Yo, Nayer and Afrojack",
+   "track name": "Give Me Everything",
+   "duration in seconds": 255
+ },
+ {
+   "genre": "r+b",
+   "track number": 23,
+   "artist": "R Kelly",
+   "track name": "When A Woman Loves",
+   "duration in seconds": 312
+ },
+ {
+   "genre": "r+b",
+   "track number": 24,
+   "artist": "Miguel",
+   "track name": "Sure Thing",
+   "duration in seconds": 196
+ },
+ {
+   "genre": "r+b",
+   "track number": 25,
+   "artist": "Aloe Blacc",
+   "track name": "I Need A Dollar",
+   "duration in seconds": 244
+ },
+ {
+   "genre": "r+b",
+   "track number": 26,
+   "artist": "Jason Derulo",
+   "track name": "Ridin' Solo",
+   "duration in seconds": 224
+ },
+ {
+   "genre": "r+b",
+   "track number": 27,
+   "artist": "Ne-Yo",
+   "track name": "Sexy Love",
+   "duration in seconds": 217
+ },
+ {
+   "genre": "r+b",
+   "track number": 28,
+   "artist": "Alicia Keys",
+   "track name": "You Don't Know My Name",
+   "duration in seconds": 188
+ },
+ {
+   "genre": "r+b",
+   "track number": 29,
+   "artist": "Brownstone",
+   "track name": "5 Miles To Empty",
+   "duration in seconds": 221
+ },
+ {
+   "genre": "r+b",
+   "track number": 30,
+   "artist": "Whitney Houston",
+   "track name": "Greatest Love Of All",
+   "duration in seconds": 287
+ },
+ {
+   "genre": "r+b",
+   "track number": 31,
+   "artist": "Luther Vandross",
+   "track name": "Give Me The Reason",
+   "duration in seconds": 227
+ },
+ {
+   "genre": "r+b",
+   "track number": 32,
+   "artist": "Usher",
+   "track name": "Superstar",
+   "duration in seconds": 191
+ },
+ {
+   "genre": "r+b",
+   "track number": 33,
+   "artist": "Al Green",
+   "track name": "Let's Stay Together",
+   "duration in seconds": 197
+ },
+ {
+   "genre": "r+b",
+   "track number": 34,
+   "artist": "Craig David",
+   "track name": "Walking Away",
+   "duration in seconds": 201
+ },
+ {
+   "genre": "r+b",
+   "track number": 35,
+   "artist": "All-4-One",
+   "track name": "I Swear",
+   "duration in seconds": 256
+ },
+ {
+   "genre": "r+b",
+   "track number": 36,
+   "artist": "Lemar",
+   "track name": "Time To Grow",
+   "duration in seconds": 203
+ },
+ {
+   "genre": "r+b",
+   "track number": 37,
+   "artist": "After 7",
+   "track name": "Ready Or Not",
+   "duration in seconds": 271
+ },
+ {
+   "genre": "r+b",
+   "track number": 38,
+   "artist": "Jermaine Jackson",
+   "track name": "Do What You Do",
+   "duration in seconds": 254
+ },
+ {
+   "genre": "r+b",
+   "track number": 39,
+   "artist": "Deniece Williams",
+   "track name": "Free",
+   "duration in seconds": 168
+ },
+ {
+   "genre": "r+b",
+   "track number": 40,
+   "artist": "Teddy Pendergrass",
+   "track name": "Love TKO",
+   "duration in seconds": 298
+ },
+ {
+   "genre": "r+b",
+   "track number": 41,
+   "artist": "Michael Jackson",
+   "track name": "Human Nature",
+   "duration in seconds": 227
+ },
+ {
+   "genre": "r+b",
+   "track number": 42,
+   "artist": "Refugee Camp All-Stars feat Lauryn Hill",
+   "track name": "The Sweetest Thing",
+   "duration in seconds": 291
+ },
+ {
+   "genre": "r+b",
+   "track number": 43,
+   "artist": "Aretha Franklin",
+   "track name": "Willing To Forgive",
+   "duration in seconds": 250
+ },
+ {
+   "genre": "r+b",
+   "track number": 44,
+   "artist": "Xscape",
+   "track name": "My Little Secret",
+   "duration in seconds": 269
+ },
+ {
+   "genre": "r+b",
+   "track number": 45,
+   "artist": "Ne-Yo",
+   "track name": "One In A Million",
+   "duration in seconds": 238
+ },
+ {
+   "genre": "r+b",
+   "track number": 46,
+   "artist": "Mohombi feat Nelly",
+   "track name": "Miss Me",
+   "duration in seconds": 201
+ },
+ {
+   "genre": "r+b",
+   "track number": 47,
+   "artist": "Shontelle",
+   "track name": "Impossible",
+   "duration in seconds": 225
+ },
+ {
+   "genre": "r+b",
+   "track number": 48,
+   "artist": "Ben E King",
+   "track name": "Stand By Me",
+   "duration in seconds": 192
+ },
+ {
+   "genre": "r+b",
+   "track number": 49,
+   "artist": "Kool and The Gang",
+   "track name": "Cherish",
+   "duration in seconds": 321
+ },
+ {
+   "genre": "r+b",
+   "track number": 50,
+   "artist": "Usher",
+   "track name": "Burn",
+   "duration in seconds": 232
+ },
+ {
+   "genre": "r+b",
+   "track number": 51,
+   "artist": "Bobby Brown",
+   "track name": "Rock Wit'Cha",
+   "duration in seconds": 257
+ },
+ {
+   "genre": "r+b",
+   "track number": 52,
+   "artist": "Aloe Blacc",
+   "track name": "Green Lights",
+   "duration in seconds": 193
+ },
+ {
+   "genre": "r+b",
+   "track number": 53,
+   "artist": "Usher",
+   "track name": "That's What It's Made For",
+   "duration in seconds": 277
+ },
+ {
+   "genre": "r+b",
+   "track number": 54,
+   "artist": "Alicia Keys",
+   "track name": "Try Sleeping With A Broken Heart",
+   "duration in seconds": 249
+ },
+ {
+   "genre": "r+b",
+   "track number": 55,
+   "artist": "Chris Brown",
+   "track name": "She Ain't You",
+   "duration in seconds": 249
+ },
+ {
+   "genre": "r+b",
+   "track number": 56,
+   "artist": "Alicia Keys",
+   "track name": "Unthinkable (I'm Ready)",
+   "duration in seconds": 249
+ },
+ {
+   "genre": "r+b",
+   "track number": 57,
+   "artist": "Drake feat Rihanna",
+   "track name": "Take Care",
+   "duration in seconds": 275
+ },
+ {
+   "genre": "r+b",
+   "track number": 58,
+   "artist": "Beyonce",
+   "track name": "Best Thing I Never Had",
+   "duration in seconds": 253
+ },
+ {
+   "genre": "r+b",
+   "track number": 59,
+   "artist": "T-Pain feat Wiz Khalifa and Lily Allen",
+   "track name": "5 O'Clock",
+   "duration in seconds": 280
+ },
+ {
+   "genre": "r+b",
+   "track number": 60,
+   "artist": "Alicia Keys",
+   "track name": "That's How Strong My Love Is",
+   "duration in seconds": 244
+ },
+ {
+   "genre": "r+b",
+   "track number": 61,
+   "artist": "Michael Jackson",
+   "track name": "Got to be There",
+   "duration in seconds": 206
+ },
+ {
+   "genre": "r+b",
+   "track number": 62,
+   "artist": "Faith Evans",
+   "track name": "Again",
+   "duration in seconds": 200
+ },
+ {
+   "genre": "r+b",
+   "track number": 63,
+   "artist": "Marsha Ambrosius",
+   "track name": "Hope She Cheats On You",
+   "duration in seconds": 245
+ },
+ {
+   "genre": "r+b",
+   "track number": 64,
+   "artist": "Usher",
+   "track name": "You Make Me Wanna",
+   "duration in seconds": 217
+ },
+ {
+   "genre": "r+b",
+   "track number": 65,
+   "artist": "Monica",
+   "track name": "Angel Of Mine",
+   "duration in seconds": 251
+ },
+ {
+   "genre": "r+b",
+   "track number": 66,
+   "artist": "Leona Lewis",
+   "track name": "Better In Time",
+   "duration in seconds": 230
+ },
+ {
+   "genre": "r+b",
+   "track number": 67,
+   "artist": "Kelly Rowland",
+   "track name": "Can't Nobody",
+   "duration in seconds": 232
+ },
+ {
+   "genre": "r+b",
+   "track number": 68,
+   "artist": "Ginuwine",
+   "track name": "Differences",
+   "duration in seconds": 246
+ },
+ {
+   "genre": "r+b",
+   "track number": 69,
+   "artist": "Donell Jones",
+   "track name": "In The Hood",
+   "duration in seconds": 260
+ },
+ {
+   "genre": "reggae",
+   "track number": 0,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Stir It Up ",
+   "duration in seconds": 331
+ },
+ {
+   "genre": "reggae",
+   "track number": 1,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Get Up Stand Up",
+   "duration in seconds": 196
+ },
+ {
+   "genre": "reggae",
+   "track number": 2,
+   "artist": "Lord Tanamo",
+   "track name": "I'm In The Mood For Ska",
+   "duration in seconds": 154
+ },
+ {
+   "genre": "reggae",
+   "track number": 3,
+   "artist": "Symarip",
+   "track name": "Skinhead Moonstomp",
+   "duration in seconds": 185
+ },
+ {
+   "genre": "reggae",
+   "track number": 4,
+   "artist": "Peter Tosh",
+   "track name": "Stepping Razor",
+   "duration in seconds": 347
+ },
+ {
+   "genre": "reggae",
+   "track number": 5,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "I shot the sheriff",
+   "duration in seconds": 283
+ },
+ {
+   "genre": "reggae",
+   "track number": 6,
+   "artist": "Desmond Dekker and The Aces",
+   "track name": "007 (Shanty Town)",
+   "duration in seconds": 151
+ },
+ {
+   "genre": "reggae",
+   "track number": 7,
+   "artist": "Peter Tosh",
+   "track name": "Downpressor Man",
+   "duration in seconds": 384
+ },
+ {
+   "genre": "reggae",
+   "track number": 8,
+   "artist": "The Ethiopians",
+   "track name": "Train To Skaville",
+   "duration in seconds": 163
+ },
+ {
+   "genre": "reggae",
+   "track number": 9,
+   "artist": "Bruce Ruffin",
+   "track name": "Rain",
+   "duration in seconds": 149
+ },
+ {
+   "genre": "reggae",
+   "track number": 10,
+   "artist": "Bob and Marcia",
+   "track name": "Pied Piper",
+   "duration in seconds": 167
+ },
+ {
+   "genre": "reggae",
+   "track number": 11,
+   "artist": "Desmond Dekker and The Aces",
+   "track name": "Israelites",
+   "duration in seconds": 154
+ },
+ {
+   "genre": "reggae",
+   "track number": 12,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Lively Up Yourself",
+   "duration in seconds": 310
+ },
+ {
+   "genre": "reggae",
+   "track number": 13,
+   "artist": "Peter Tosh",
+   "track name": "Equal Rights",
+   "duration in seconds": 358
+ },
+ {
+   "genre": "reggae",
+   "track number": 14,
+   "artist": "Desmond Dekker and The Aces",
+   "track name": "It Mek",
+   "duration in seconds": 140
+ },
+ {
+   "genre": "reggae",
+   "track number": 15,
+   "artist": "Greyhound",
+   "track name": "Black and White",
+   "duration in seconds": 151
+ },
+ {
+   "genre": "reggae",
+   "track number": 16,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "No Woman No Cry",
+   "duration in seconds": 427
+ },
+ {
+   "genre": "reggae",
+   "track number": 17,
+   "artist": "Peter Tosh",
+   "track name": "Don't Look Back",
+   "duration in seconds": 315
+ },
+ {
+   "genre": "reggae",
+   "track number": 18,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Roots Rock Reggae",
+   "duration in seconds": 211
+ },
+ {
+   "genre": "reggae",
+   "track number": 19,
+   "artist": "Tony Tribe",
+   "track name": "Red Red Wine",
+   "duration in seconds": 178
+ },
+ {
+   "genre": "reggae",
+   "track number": 20,
+   "artist": "Peter Tosh",
+   "track name": "African",
+   "duration in seconds": 221
+ },
+ {
+   "genre": "reggae",
+   "track number": 21,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Exodus",
+   "duration in seconds": 448
+ },
+ {
+   "genre": "reggae",
+   "track number": 22,
+   "artist": "Jimmy Cliff",
+   "track name": "Wonderful World Beautiful People",
+   "duration in seconds": 192
+ },
+ {
+   "genre": "reggae",
+   "track number": 23,
+   "artist": "Peter Tosh",
+   "track name": "Legalize It",
+   "duration in seconds": 280
+ },
+ {
+   "genre": "reggae",
+   "track number": 24,
+   "artist": "Harry J Allstars",
+   "track name": "Liquidator",
+   "duration in seconds": 173
+ },
+ {
+   "genre": "reggae",
+   "track number": 25,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Jamming",
+   "duration in seconds": 202
+ },
+ {
+   "genre": "reggae",
+   "track number": 26,
+   "artist": "Peter Tosh",
+   "track name": "Bush Doctor",
+   "duration in seconds": 240
+ },
+ {
+   "genre": "reggae",
+   "track number": 27,
+   "artist": "The Upsetters",
+   "track name": "Return Of Django",
+   "duration in seconds": 145
+ },
+ {
+   "genre": "reggae",
+   "track number": 28,
+   "artist": "Greyhound",
+   "track name": "Moon River",
+   "duration in seconds": 189
+ },
+ {
+   "genre": "reggae",
+   "track number": 29,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Waiting In Vain",
+   "duration in seconds": 252
+ },
+ {
+   "genre": "reggae",
+   "track number": 30,
+   "artist": "Peter Tosh",
+   "track name": "Igziabeher",
+   "duration in seconds": 277
+ },
+ {
+   "genre": "reggae",
+   "track number": 31,
+   "artist": "Dandy Livingstone",
+   "track name": "Suzanne Beware Of The Devil",
+   "duration in seconds": 153
+ },
+ {
+   "genre": "reggae",
+   "track number": 32,
+   "artist": "The Upsetters",
+   "track name": "Dollar In The Teeth",
+   "duration in seconds": 145
+ },
+ {
+   "genre": "reggae",
+   "track number": 33,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Three Little Birds",
+   "duration in seconds": 178
+ },
+ {
+   "genre": "reggae",
+   "track number": 34,
+   "artist": "Peter Tosh",
+   "track name": "Fools Die",
+   "duration in seconds": 455
+ },
+ {
+   "genre": "reggae",
+   "track number": 35,
+   "artist": "Judge Dread",
+   "track name": "Big 7",
+   "duration in seconds": 187
+ },
+ {
+   "genre": "reggae",
+   "track number": 36,
+   "artist": "The Pioneers",
+   "track name": "Long Shot Kick De Bucket",
+   "duration in seconds": 164
+ },
+ {
+   "genre": "reggae",
+   "track number": 37,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Turn Your Lights Down Low",
+   "duration in seconds": 215
+ },
+ {
+   "genre": "reggae",
+   "track number": 38,
+   "artist": " Peter Tosh",
+   "track name": "Mystery Babylon",
+   "duration in seconds": 210
+ },
+ {
+   "genre": "reggae",
+   "track number": 39,
+   "artist": "Greyhound",
+   "track name": "I Am What I Am",
+   "duration in seconds": 158
+ },
+ {
+   "genre": "reggae",
+   "track number": 40,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "One Love People Get Ready",
+   "duration in seconds": 171
+ },
+ {
+   "genre": "reggae",
+   "track number": 41,
+   "artist": "The Melodians",
+   "track name": "Sweet Sensation",
+   "duration in seconds": 193
+ },
+ {
+   "genre": "reggae",
+   "track number": 42,
+   "artist": "Peter Tosh",
+   "track name": "Ketchy Shuby",
+   "duration in seconds": 296
+ },
+ {
+   "genre": "reggae",
+   "track number": 43,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Is This Love",
+   "duration in seconds": 231
+ },
+ {
+   "genre": "reggae",
+   "track number": 44,
+   "artist": "Jimmy Cliff",
+   "track name": "Vietnam",
+   "duration in seconds": 283
+ },
+ {
+   "genre": "reggae",
+   "track number": 45,
+   "artist": "Ken Boothe",
+   "track name": "Evrything I Own",
+   "duration in seconds": 203
+ },
+ {
+   "genre": "reggae",
+   "track number": 46,
+   "artist": "Peter Tosh",
+   "track name": "Till Your Well Runs Dry",
+   "duration in seconds": 368
+ },
+ {
+   "genre": "reggae",
+   "track number": 47,
+   "artist": "Bob and Marcia",
+   "track name": "Young Gifted And Black",
+   "duration in seconds": 188
+ },
+ {
+   "genre": "reggae",
+   "track number": 48,
+   "artist": "Rupie Edwards",
+   "track name": "Ire Feelings (Skanga)",
+   "duration in seconds": 227
+ },
+ {
+   "genre": "reggae",
+   "track number": 49,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Sun Is Shining",
+   "duration in seconds": 297
+ },
+ {
+   "genre": "reggae",
+   "track number": 50,
+   "artist": "John Holt",
+   "track name": "Help Me Make It Through The Night",
+   "duration in seconds": 187
+ },
+ {
+   "genre": "reggae",
+   "track number": 51,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "So Much Trouble In The World",
+   "duration in seconds": 235
+ },
+ {
+   "genre": "reggae",
+   "track number": 52,
+   "artist": "The Maytals",
+   "track name": "Monkey Man",
+   "duration in seconds": 213
+ },
+ {
+   "genre": "reggae",
+   "track number": 53,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Could You Be Loved",
+   "duration in seconds": 235
+ },
+ {
+   "genre": "reggae",
+   "track number": 54,
+   "artist": "Desmond Dekker",
+   "track name": "You Can Get It If You Really Want",
+   "duration in seconds": 148
+ },
+ {
+   "genre": "reggae",
+   "track number": 55,
+   "artist": "Ken Boothe",
+   "track name": "Crying Over You",
+   "duration in seconds": 206
+ },
+ {
+   "genre": "reggae",
+   "track number": 56,
+   "artist": "Nicky Thomas",
+   "track name": "Love Of The Common People",
+   "duration in seconds": 139
+ },
+ {
+   "genre": "reggae",
+   "track number": 57,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Redemption Song",
+   "duration in seconds": 290
+ },
+ {
+   "genre": "reggae",
+   "track number": 58,
+   "artist": "Susan Cadogan",
+   "track name": "Eighteen Hurt So Good",
+   "duration in seconds": 198
+ },
+ {
+   "genre": "reggae",
+   "track number": 59,
+   "artist": "Horace Faith",
+   "track name": "Black Pearl",
+   "duration in seconds": 155
+ },
+ {
+   "genre": "reggae",
+   "track number": 60,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Buffalo Soldier",
+   "duration in seconds": 260
+ },
+ {
+   "genre": "reggae",
+   "track number": 61,
+   "artist": "Derrick Harriott",
+   "track name": "Eighteen With A Bullet",
+   "duration in seconds": 220
+ },
+ {
+   "genre": "reggae",
+   "track number": 62,
+   "artist": "Boris Gardner",
+   "track name": "You Make Me Feel Brand New",
+   "duration in seconds": 281
+ },
+ {
+   "genre": "reggae",
+   "track number": 63,
+   "artist": "Freddie Notes and The Rudies",
+   "track name": "Montego Bay",
+   "duration in seconds": 145
+ },
+ {
+   "genre": "reggae",
+   "track number": 64,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "Iron Lion Zion",
+   "duration in seconds": 203
+ },
+ {
+   "genre": "reggae",
+   "track number": 65,
+   "artist": "Dennis Brown",
+   "track name": "Money In My Pocket",
+   "duration in seconds": 278
+ },
+ {
+   "genre": "reggae",
+   "track number": 66,
+   "artist": "Bob Marley and The Wailers",
+   "track name": "I Know A Place",
+   "duration in seconds": 203
+ },
+ {
+   "genre": "reggae",
+   "track number": 67,
+   "artist": "The Melodians",
+   "track name": "Rivers Of Babylon",
+   "duration in seconds": 204
+ },
+ {
+   "genre": "reggae",
+   "track number": 68,
+   "artist": "Pioneers",
+   "track name": "Let Your Yeah Be Yeah",
+   "duration in seconds": 179
+ },
+ {
+   "genre": "reggae",
+   "track number": 69,
+   "artist": "Dave and Ansel Collins",
+   "track name": "Monkey Spanner",
+   "duration in seconds": 151
+ },
+ {
+   "genre": "rock",
+   "track number": 0,
+   "artist": "Queen",
+   "track name": "Under Pressure",
+   "duration in seconds": 243
+ },
+ {
+   "genre": "rock",
+   "track number": 1,
+   "artist": "Pink Floyd",
+   "track name": "Comfortably Numb",
+   "duration in seconds": 381
+ },
+ {
+   "genre": "rock",
+   "track number": 2,
+   "artist": "Jimi Hendrix",
+   "track name": "All Along The Watchtower",
+   "duration in seconds": 239
+ },
+ {
+   "genre": "rock",
+   "track number": 3,
+   "artist": "The Animals",
+   "track name": "The House Of The Rising Sun",
+   "duration in seconds": 271
+ },
+ {
+   "genre": "rock",
+   "track number": 4,
+   "artist": "Pink Floyd",
+   "track name": "Another Brick In The Wall",
+   "duration in seconds": 239
+ },
+ {
+   "genre": "rock",
+   "track number": 5,
+   "artist": "Radiohead",
+   "track name": "Creep",
+   "duration in seconds": 237
+ },
+ {
+   "genre": "rock",
+   "track number": 6,
+   "artist": "The Beatles",
+   "track name": "Revolution",
+   "duration in seconds": 204
+ },
+ {
+   "genre": "rock",
+   "track number": 7,
+   "artist": "Arcade Fire",
+   "track name": "The Suburbs",
+   "duration in seconds": 315
+ },
+ {
+   "genre": "rock",
+   "track number": 8,
+   "artist": "The Ramones",
+   "track name": "I Wanna Be Sedated",
+   "duration in seconds": 151
+ },
+ {
+   "genre": "rock",
+   "track number": 9,
+   "artist": "REM",
+   "track name": "The Sidewinder Sleeps Tonite",
+   "duration in seconds": 249
+ },
+ {
+   "genre": "rock",
+   "track number": 10,
+   "artist": "Faith No More",
+   "track name": "Epic ",
+   "duration in seconds": 294
+ },
+ {
+   "genre": "rock",
+   "track number": 11,
+   "artist": "Pearl Jam",
+   "track name": "Alive",
+   "duration in seconds": 341
+ },
+ {
+   "genre": "rock",
+   "track number": 12,
+   "artist": "Live",
+   "track name": "Lightning Crashes",
+   "duration in seconds": 326
+ },
+ {
+   "genre": "rock",
+   "track number": 13,
+   "artist": "Soundgarden",
+   "track name": "Black Hole Sun",
+   "duration in seconds": 320
+ },
+ {
+   "genre": "rock",
+   "track number": 14,
+   "artist": "Audioslave",
+   "track name": "Doesn't Remind Me",
+   "duration in seconds": 255
+ },
+ {
+   "genre": "rock",
+   "track number": 15,
+   "artist": "Alice In Chains",
+   "track name": "Man In The Box",
+   "duration in seconds": 286
+ },
+ {
+   "genre": "rock",
+   "track number": 16,
+   "artist": "Soundgarden",
+   "track name": "Pretty Noose",
+   "duration in seconds": 253
+ },
+ {
+   "genre": "rock",
+   "track number": 17,
+   "artist": "REM",
+   "track name": "It's The End Of The World",
+   "duration in seconds": 244
+ },
+ {
+   "genre": "rock",
+   "track number": 18,
+   "artist": "Live",
+   "track name": "All Over You",
+   "duration in seconds": 239
+ },
+ {
+   "genre": "rock",
+   "track number": 19,
+   "artist": "Aerosmith",
+   "track name": "Janie's Got A Gun",
+   "duration in seconds": 331
+ },
+ {
+   "genre": "rock",
+   "track number": 20,
+   "artist": "Radiohead",
+   "track name": "High And Dry",
+   "duration in seconds": 257
+ },
+ {
+   "genre": "rock",
+   "track number": 21,
+   "artist": "Nine Inch Nails",
+   "track name": "Closer",
+   "duration in seconds": 373
+ },
+ {
+   "genre": "rock",
+   "track number": 22,
+   "artist": "The Police",
+   "track name": "Roxanne",
+   "duration in seconds": 192
+ },
+ {
+   "genre": "rock",
+   "track number": 23,
+   "artist": "Nirvana",
+   "track name": "Smells Like Teen Spirit",
+   "duration in seconds": 301
+ },
+ {
+   "genre": "rock",
+   "track number": 24,
+   "artist": "Stone Temple Pilots",
+   "track name": "Interstate Love Song",
+   "duration in seconds": 194
+ },
+ {
+   "genre": "rock",
+   "track number": 25,
+   "artist": "Red Hot Chili Peppers",
+   "track name": "Give It Away",
+   "duration in seconds": 285
+ },
+ {
+   "genre": "rock",
+   "track number": 26,
+   "artist": "Collective Soul",
+   "track name": "Shine",
+   "duration in seconds": 306
+ },
+ {
+   "genre": "rock",
+   "track number": 27,
+   "artist": "Blur",
+   "track name": "Song 2",
+   "duration in seconds": 121
+ },
+ {
+   "genre": "rock",
+   "track number": 28,
+   "artist": "Beck",
+   "track name": "Loser",
+   "duration in seconds": 235
+ },
+ {
+   "genre": "rock",
+   "track number": 29,
+   "artist": "Stone Temple Pilots",
+   "track name": "Plush",
+   "duration in seconds": 254
+ },
+ {
+   "genre": "rock",
+   "track number": 30,
+   "artist": "Live",
+   "track name": "I Alone",
+   "duration in seconds": 231
+ },
+ {
+   "genre": "rock",
+   "track number": 31,
+   "artist": "Muse",
+   "track name": "Neutron Star Collision (Love is Forever)",
+   "duration in seconds": 230
+ },
+ {
+   "genre": "rock",
+   "track number": 32,
+   "artist": "The National",
+   "track name": "Anyone's Ghost",
+   "duration in seconds": 174
+ },
+ {
+   "genre": "rock",
+   "track number": 33,
+   "artist": "Foo Fighters",
+   "track name": "Best Of You",
+   "duration in seconds": 255
+ },
+ {
+   "genre": "rock",
+   "track number": 34,
+   "artist": "The Smashing Pumpkins",
+   "track name": "Tonight, Tonight",
+   "duration in seconds": 254
+ },
+ {
+   "genre": "rock",
+   "track number": 35,
+   "artist": "Red Hot Chili Peppers",
+   "track name": "Soul To Squeeze",
+   "duration in seconds": 290
+ },
+ {
+   "genre": "rock",
+   "track number": 36,
+   "artist": "Queen",
+   "track name": "Another One Bites The Dust",
+   "duration in seconds": 215
+ },
+ {
+   "genre": "rock",
+   "track number": 37,
+   "artist": "Smashing Pumpkins",
+   "track name": "1979",
+   "duration in seconds": 263
+ },
+ {
+   "genre": "rock",
+   "track number": 38,
+   "artist": "The Beatles",
+   "track name": "Come Together",
+   "duration in seconds": 260
+ },
+ {
+   "genre": "rock",
+   "track number": 39,
+   "artist": "Tame Impala",
+   "track name": "Solitude Is Bliss",
+   "duration in seconds": 235
+ },
+ {
+   "genre": "rock",
+   "track number": 40,
+   "artist": "Queen",
+   "track name": "Don't Stop Me Now",
+   "duration in seconds": 210
+ },
+ {
+   "genre": "rock",
+   "track number": 41,
+   "artist": "Foals",
+   "track name": "Spanish Sahara",
+   "duration in seconds": 409
+ },
+ {
+   "genre": "rock",
+   "track number": 42,
+   "artist": "Nirvana",
+   "track name": "Come As You Are",
+   "duration in seconds": 219
+ },
+ {
+   "genre": "rock",
+   "track number": 43,
+   "artist": "The Rolling Stones",
+   "track name": "Paint It Black",
+   "duration in seconds": 206
+ },
+ {
+   "genre": "rock",
+   "track number": 44,
+   "artist": "The Clash",
+   "track name": "Should I Stay Or Should I Go",
+   "duration in seconds": 188
+ },
+ {
+   "genre": "rock",
+   "track number": 45,
+   "artist": "The Police",
+   "track name": "Message In A Bottle",
+   "duration in seconds": 289
+ },
+ {
+   "genre": "rock",
+   "track number": 46,
+   "artist": "Ash",
+   "track name": "Goldfinger",
+   "duration in seconds": 274
+ },
+ {
+   "genre": "rock",
+   "track number": 47,
+   "artist": "Joy Division",
+   "track name": "Love will tear us apart",
+   "duration in seconds": 206
+ },
+ {
+   "genre": "rock",
+   "track number": 48,
+   "artist": "The Smiths",
+   "track name": "There Is A Light That Never Goes Out",
+   "duration in seconds": 243
+ },
+ {
+   "genre": "rock",
+   "track number": 49,
+   "artist": "Pavement",
+   "track name": "Shady Lane",
+   "duration in seconds": 157
+ },
+ {
+   "genre": "rock",
+   "track number": 50,
+   "artist": "Smashing Pumpkins",
+   "track name": "Today",
+   "duration in seconds": 202
+ },
+ {
+   "genre": "rock",
+   "track number": 51,
+   "artist": "Tame Impala",
+   "track name": "Lucidity",
+   "duration in seconds": 271
+ },
+ {
+   "genre": "rock",
+   "track number": 52,
+   "artist": "Eric Clapton",
+   "track name": "Cocaine",
+   "duration in seconds": 215
+ },
+ {
+   "genre": "rock",
+   "track number": 53,
+   "artist": "Sex Pistols",
+   "track name": "God Save The Queen",
+   "duration in seconds": 198
+ },
+ {
+   "genre": "rock",
+   "track number": 54,
+   "artist": "Eric Clapton",
+   "track name": "Layla",
+   "duration in seconds": 425
+ },
+ {
+   "genre": "rock",
+   "track number": 55,
+   "artist": "The Doors",
+   "track name": "Break On Through (To The Other Side)",
+   "duration in seconds": 147
+ },
+ {
+   "genre": "rock",
+   "track number": 56,
+   "artist": "U2",
+   "track name": "I Will Follow",
+   "duration in seconds": 211
+ },
+ {
+   "genre": "rock",
+   "track number": 57,
+   "artist": "Cream",
+   "track name": "Sunshine Of Your Love",
+   "duration in seconds": 253
+ },
+ {
+   "genre": "rock",
+   "track number": 58,
+   "artist": "Ash",
+   "track name": "A Life Less Ordinary",
+   "duration in seconds": 256
+ },
+ {
+   "genre": "rock",
+   "track number": 59,
+   "artist": "The Pixies",
+   "track name": "Here Comes Your Man",
+   "duration in seconds": 201
+ },
+ {
+   "genre": "rock",
+   "track number": 60,
+   "artist": "Nirvana",
+   "track name": "Lithium",
+   "duration in seconds": 257
+ },
+ {
+   "genre": "rock",
+   "track number": 61,
+   "artist": "The Rolling Stones",
+   "track name": "Honky Tonk Women",
+   "duration in seconds": 181
+ },
+ {
+   "genre": "rock",
+   "track number": 62,
+   "artist": "U2",
+   "track name": "With Or Without You",
+   "duration in seconds": 298
+ },
+ {
+   "genre": "rock",
+   "track number": 63,
+   "artist": "The Arcade Fire",
+   "track name": "No Cars Go",
+   "duration in seconds": 340
+ },
+ {
+   "genre": "rock",
+   "track number": 64,
+   "artist": "Sonic Youth",
+   "track name": "Sunday",
+   "duration in seconds": 292
+ },
+ {
+   "genre": "rock",
+   "track number": 65,
+   "artist": "U2",
+   "track name": "New Year's Day",
+   "duration in seconds": 339
+ },
+ {
+   "genre": "rock",
+   "track number": 66,
+   "artist": "The Breeders",
+   "track name": "Cannonball",
+   "duration in seconds": 213
+ },
+ {
+   "genre": "rock",
+   "track number": 67,
+   "artist": "Deerhunter",
+   "track name": "Helicopter",
+   "duration in seconds": 298
+ },
+ {
+   "genre": "rock",
+   "track number": 68,
+   "artist": "REM",
+   "track name": "What's The Frequency, Kenneth",
+   "duration in seconds": 240
+ },
+ {
+   "genre": "rock",
+   "track number": 69,
+   "artist": "The Pixies",
+   "track name": "Where Is My Mind",
+   "duration in seconds": 229
+ }
+]
